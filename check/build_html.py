@@ -1,8 +1,10 @@
 """Render the client pattern to a standalone, print-ready HTML file."""
 import pathlib, markdown, re
 
-SRC = "NS04_Coco_the_Capybara_CLIENT.md"
-OUT = "dist/Coco_the_Capybara_pattern.html"
+import sys
+if len(sys.argv) != 4:
+    sys.exit("usage: build_html.py SOURCE.md OUTPUT.html \"Title\"")
+SRC, OUT, TITLE = sys.argv[1], sys.argv[2], sys.argv[3]
 
 md_text = pathlib.Path(SRC).read_text()
 body = markdown.markdown(md_text, extensions=["tables", "sane_lists"])
@@ -50,8 +52,8 @@ html = f"""<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Coco the Capybara — NS 04 — Novality Store</title>
-<meta name="description" content="Crochet pattern: Coco the Capybara, design code NS 04.">
+<title>{TITLE} — Novality Store</title>
+<meta name="description" content="Crochet pattern: {TITLE}.">
 <style>{CSS}</style>
 </head>
 <body>

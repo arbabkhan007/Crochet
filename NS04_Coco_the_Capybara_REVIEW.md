@@ -50,28 +50,40 @@ better than a flat swatch for amigurumi — it is directly testable mid-project.
 
 The pattern states: *"This places the four legs at roughly 90° to each other."*
 
-Computed from the instructions as written:
+Computed from the instructions as written, treating each round as a circle:
 
-- **R4 back legs** (24-st round): centres 10.5 sts one way, 13.5 the other
-  = **157.5° and 202.5°**, not 90°.
-- **R5 front legs** (30-st round): `2 sc, leg/3, 12 sc, leg/3, to end`
-  = **exactly 180° apart**, diametrically opposite.
-- **Front vs back**: a front leg sits only 3 sts (~13.5 mm) behind a back leg
-  on one side and ~12 sts (~54 mm) on the other.
+- **R5 front legs** (30-st round): `2 sc, leg/3, 12 sc, leg/3, to end` puts the
+  two front legs **exactly 180° apart**, diametrically opposite.
+- **Front vs back**: a front leg sits **2 sts (~9 mm)** behind a back leg on one
+  side and 11 sts (~50 mm) on the other.
 
-Footprint spans: left-right 67.5 mm, front-back 20.2 mm — a **3.3 : 1 ratio**.
-Coco will stand, but on a narrow bowtie, and will be tippy front-to-back.
-That matters more here than usual, because section 3 makes standing the whole
-point of the design.
+Footprint: **60.8 mm wide, 9.0 mm deep — a 6.75 : 1 ratio.** The front feet are
+essentially in line with the back feet. Coco will stand, but on a strip, and
+will tip immediately front-to-back. That matters more here than usual, because
+section 3 makes standing the whole point of the design.
 
-**Suggested fix** — keep R4 as printed, change R5 to:
+**Fix** — keep R4 as printed, change R5 to:
 
-> **R5** — front legs: work 2 sc, join a leg over the next 3 sc, work **6 sc**,
-> join a leg over the next 3 sc, work **13 sc** to the end of the round (30).
+> **R5** — front legs: work **7 sc**, join a leg over the next 3 sc, work
+> **10 sc**, join a leg over the next 3 sc, work **7 sc** to the end (30).
 
-`2 + 3 + 6 + 3 + 13 = 30`, so the count is unchanged. This puts the front legs
-roughly midway between the back legs left-to-right and gives a front-back span
-of ~9 sts (~40 mm) instead of ~4.5 — a near-square footprint.
+`7 + 3 + 10 + 3 + 7 = 30`, so the count is unchanged. Verified result: front
+legs at st 8.5 and 23.0, footprint **65.2 mm wide × 29.2 mm deep = 2.2 : 1**.
+
+**What this fix cannot do.** Two joins on a 30-stitch round are always near
+opposite each other, so the ~65 mm width is fixed no matter where the front legs
+go — the stagger is the only lever. A genuinely square footprint needs all four
+legs on **one** round: Rnd 4's 24 stitches take four 3-st joins spaced 6 sts
+apart for a ~40 mm × 40 mm square, but at only 17 mm up, the legs can then be no
+longer than ~4 rounds if the feet are to reach the table. That is a squatter
+animal and it voids section 3. Worth knowing as a design option, not a patch.
+
+> **Correction to an earlier version of this review.** It proposed
+> `2, 3, 6, 3, 13` and called the result "near-square." That walk sums to **27,
+> not 30**, and the claim was wrong in a second way: it measured the front-back
+> span without wrapping around the circle, which is what produced the
+> "~40 mm" figure. The corrected numbers above come from `check/solve_r5.py`,
+> which enumerates every walk that sums to 30.
 
 ## B. Stated height (8.5 cm) contradicts the standing-on-legs design  (correctness)
 
@@ -82,8 +94,8 @@ leg length                = 8 x 4.3 = 34.4 mm
 highest join point (R5)   = 5 x 4.3 = 21.5 mm above body base
 => body base floats         34.4 - 21.5 = 12.9 mm above the table
 body base -> top of head  = 20 x 4.3 = 86.0 mm
-TOTAL standing height     = 98.9 mm
-stated finished size      = 85 mm       -> overstated by 13.9 mm (16%)
+TOTAL standing height     = 98.9 mm     (103.2 mm with the leg fix in issue A)
+stated finished size      = 85 mm       -> understated by 14-18 mm (16-21%)
 ```
 
 The 8.5 cm figure is correct **only if the legs are decorative and the belly
@@ -92,9 +104,16 @@ rests on the table**. But the pattern says the opposite, twice: the 34 mm leg
 caption is *"Coco standing square on all four legs."* Both cannot hold.
 
 Pick one and make the pattern agree:
-- **Standing Coco** → finished size becomes **~10 cm** tall; or
+- **Standing Coco** → finished size becomes **~10.3 cm** tall; or
 - **8.5 cm Coco** → legs join at R1-R2 and shorten to ~5 rounds, which then
   invalidates the whole of section 3 ("Why the legs join so low").
+
+**A second, related problem the pattern does not mention.** The back legs join at
+Rnd 4 (17.2 mm up) and the front legs at Rnd 5 (21.5 mm up). Given identical
+8-round legs, the back feet hang 21.5 mm below the body and the front feet only
+12.9 mm — **8.6 mm of difference**, so Coco rocks back onto her haunches with
+her front feet in the air. The front legs must be **one round longer (9 rounds)**
+than the back legs (8); both feet then hang 17.2 mm and land level.
 
 ## C. Leg-join instructions contradict each other  (clarity)
 

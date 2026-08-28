@@ -1,0 +1,12 @@
+# Python virtualenvs — build tooling, not project content
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS / editor noise
+.DS_Store
+Thumbs.db

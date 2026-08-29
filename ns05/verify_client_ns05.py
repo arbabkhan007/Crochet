@@ -24,28 +24,47 @@ for gate in ("ns05/verify_stitches.py", "ns05/verify_geometry.py"):
     if r.returncode != 0:
         fails.append(f"{gate} exited {r.returncode}")
 
-# 2. every published table row, plus the two prose beak rounds
+# 2. every published table row, plus the two prose beak rounds.
+#    Tables are parsed as contiguous blocks so that each is checked from its own
+#    starting count: the main table starts at 0, the smaller-head variant starts
+#    at 24. Splitting the document on prose text got this wrong once already.
 print("\n[published rounds]")
-row_re = re.compile(r"^\|\s*(R\d+)\s*\|\s*(.+?)\s*\|\s*\((\d+)\)\s*\|", re.M)
-prev, n, bad = 0, 0, 0
-for label, cell, stated in row_re.findall(raw):
-    stated = int(stated)
-    cell = cell.strip().rstrip(".").strip()
-    if label == "R1":
-        prev = 0
-    try:
-        c, p = eval_round(cell, prev)
-    except ValueError as e:
-        print(f"  PARSE {label:<5} {e}"); bad += 1; n += 1; continue
-    if p != stated or c != prev:
-        bad += 1
-        print(f"  MISMATCH {label:<5} stated ({stated}) produced {p} consumed {c} "
-              f"prev {prev}\n       <- {cell}")
-    prev = stated
-    n += 1
-print(f"  {n} table rows checked")
+row_re = re.compile(r"^\|\s*(R\d+)\s*\|\s*(.+?)\s*\|\s*\((\d+)\)\s*\|")
+
+blocks, cur = [], []
+for line in raw.splitlines():
+    m = row_re.match(line)
+    if m:
+        cur.append(m.groups())
+    elif cur:
+        blocks.append(cur); cur = []
+if cur:
+    blocks.append(cur)
+
+bad, n = 0, 0
+for bi, block in enumerate(blocks):
+    first_lab = block[0][0]
+    prev = 0 if first_lab == "R1" else 24   # the only non-R1 table is the variant
+    tag = "main" if first_lab == "R1" else f"variant (from {prev} st)"
+    for lab, cell, stated in block:
+        stated = int(stated)
+        cell = cell.strip().rstrip(".").strip()
+        try:
+            c, pr = eval_round(cell, prev)
+        except ValueError as e:
+            print(f"  PARSE {lab:<5} {e}"); bad += 1; n += 1; continue
+        if pr != stated or c != prev:
+            bad += 1
+            print(f"  MISMATCH {lab:<5} stated ({stated}) produced {pr} "
+                  f"consumed {c} prev {prev}\n       <- {cell}")
+        prev = stated
+        n += 1
+    print(f"  block {bi+1} [{tag}]: {len(block)} rows, {block[0][0]}-{block[-1][0]}, "
+          f"ends at {prev} st")
+ck(len(blocks) == 3, f"three tables found (body, wings, smaller-head variant): {len(blocks)}")
 
 beak_re = re.compile(r"\*\*Rnd (\d)\.\*\*(.+?)\*\*\[(\d+)\]\*\*", re.S)
+prev = 0
 for num, cell, stated in beak_re.findall(raw):
     stated = int(stated)
     if num == "1":
@@ -58,17 +77,16 @@ for num, cell, stated in beak_re.findall(raw):
         prev = stated
     else:
         cell = cell.strip().rstrip(".").strip()
-        c, p = eval_round(cell, prev)
-        ok = p == stated and c == prev
-        print(f"  {'ok  ' if ok else 'FAIL'} beak Rnd 2 -> produced {p} consumed {c} "
+        c, pr = eval_round(cell, prev)
+        ok = pr == stated and c == prev
+        print(f"  {'ok  ' if ok else 'FAIL'} beak Rnd 2 -> produced {pr} consumed {c} "
               f"prev {prev} (stated {stated})")
         if not ok:
             bad += 1
         prev = stated
     n += 1
 ck(bad == 0, "every published round count is arithmetically correct")
-ck(n == 29, f"all rows covered ({n} published; model has 30 incl. the wing close, "
-            f"which is prose)")
+ck(n == 32, f"all rows covered ({n} published: 23 body + 4 wing + 3 variant + 2 beak prose)")
 
 # 3. no review artefacts
 print("\n[no review markup]")
@@ -94,11 +112,13 @@ ck(re.search(r"7\u20138 stitches apart", flat) is not None, "eye spacing kept")
 print("\n[corrected claims]")
 ck("55–75 g" not in flat and "55-75 g" not in flat, "old 55-75 g body yarn figure gone")
 ck(re.search(r"about 25\u201335 g", flat) is not None, "body yarn corrected to 25-35 g")
-ck(re.search(r"enough for three ducks", flat) is not None, "the scrap-saving point is made")
+ck(re.search(r"makes two ducks comfortably", flat) is not None
+   and "enough for three ducks" not in flat,
+   "scrap claim holds at the top of the stated range")
 ck(re.search(r"about 25\u201335 g\*\*, packed firmly", raw) is not None,
    "fiberfill quantity now stated")
-ck(re.search(r"DK / light worsted \(#3\)\s*\|\s*7\u20138 cm", flat) is not None,
-   "DK re-scoped to 7-8 cm")
+ck(re.search(r"DK / light worsted \(#3\)\s*\|\s*7\.5\u20138\.5 cm", flat) is not None,
+   "DK re-scoped to 7.5-8.5 cm")
 ck(re.search(r"Velvet / bulky \(#5\)\s*\|\s*10\u201312 cm", flat) is not None,
    "velvet carries the 10-12 cm claim")
 ck(re.search(r"lands at\s*about 8 cm rather than 10\u201312 cm", flat) is not None,
@@ -121,8 +141,9 @@ ck(re.search(r"about 50 mm long", flat) is not None
    and re.search(r"two-thirds of the head width", flat) is not None,
    "as-written beak size disclosed")
 ck(re.search(r"same diameter", flat) is not None
-   and re.search(r"stop the reflare at R13", flat) is not None,
-   "head/body proportion disclosed with an alternative")
+   and re.search(r"For a smaller head", flat) is not None
+   and re.search(r"written for 30 stitches, so they\s*must change too", flat) is not None,
+   "head/body proportion disclosed, with working substitute rounds")
 
 # 7. techniques and abbreviations
 print("\n[techniques and abbreviations]")

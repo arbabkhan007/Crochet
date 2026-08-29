@@ -246,7 +246,7 @@ you sew them. Sixteen rounds gives a 67 mm leg.
 | Rnd 3 | [sc, inc] ×6 | (18) | |
 | Rnd 4 | sc in each st around | (18) | |
 | Rnd 5 | sc in each st around | (18) | |
-| Rnd 6 | BLO sc around | (18) | change to Yarn A — ridge = colour line |
+| Rnd 6 | BLO sc around | (18) | change to Yarn A — ridge = color line |
 | Rnd 7 | sc in each st around | (18) | |
 | Rnd 8 | [sc, dec] ×6 | (12) | stuff hoof firmly |
 | Rnd 9 | sc in each st around | (12) | |
@@ -260,7 +260,7 @@ you sew them. Sixteen rounds gives a 67 mm leg.
 
 **Finish.** FO, 30 cm tail. Leave the top open.
 
-**Hoof ridge.** The BLO round and the colour change happen on the same round
+**Hoof ridge.** The BLO round and the color change happen on the same round
 (Rnd 6), so the ridge lands exactly on the cream-to-ginger line and reads as the
 rim of the hoof.
 
@@ -362,7 +362,7 @@ tidy, it is not finished.
 
 Ch 61. **Row 1:** hdc in 2nd ch from hook and in each ch across (60).
 **Row 2:** ch 1, turn, hdc across (60). FO. Add a 3-strand tassel at each end,
-or weave a second colour in a slip-stitch stripe to hint at tartan. Tie loosely
+or weave a second color in a slip-stitch stripe to hint at tartan. Tie loosely
 under the muzzle.
 
 **Ribbon shortcut:** 28 cm of 12 mm rust tartan ribbon, knotted once.

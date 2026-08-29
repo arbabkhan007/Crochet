@@ -36,8 +36,7 @@ an untidy finish.
 
 ## MATERIALS
 
-**Yarn** — DK (#3) 100% cotton, or a blend with a baby-safe certification, about
-60 g. Cream, sage, dusty pink or pale grey.
+**Yarn** — DK (#3) 100% cotton, or a cotton blend, about 60 g. Cream, sage, dusty pink or pale grey.
 
 **Hook** — 3.5 mm (US E/4) for the blanket. Use 3.0 mm for the head if your
 tension is loose; the head needs to be tight enough that stuffing cannot show.

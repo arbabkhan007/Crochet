@@ -21,8 +21,9 @@ are sewn on.
 
 ## Materials
 
-- **Body yarn:** super-bulky chenille (#6), yellow — **about 25–35 g**. A single
-  100 g ball is enough for three ducks.
+- **Body yarn:** super-bulky chenille (#6), yellow — **about 25–35 g**. A 100 g
+  ball makes two ducks comfortably, and three if your tension is on the tight
+  side.
 - **Details:** a small amount of orange yarn for the beak; black yarn or
   embroidery floss for the eyes.
 - **Hook:** 4.5 mm (US 7)
@@ -51,7 +52,7 @@ The same pattern in a lighter yarn, on a 3.0 mm hook:
 |---|---|
 | Velvet / bulky (#5) | 10–12 cm |
 | Aran / worsted (#4) | 9–10 cm |
-| DK / light worsted (#3) | 7–8 cm |
+| DK / light worsted (#3) | 7.5–8.5 cm |
 
 DK is often suggested for this, but it is fine enough that the duck lands at
 about 8 cm rather than 10–12 cm — a perfectly good result, just not the size
@@ -99,10 +100,20 @@ Worked from the tail end up. The waist at R10–R12 and the reflare at R13–R14
 what separate the body from the head without a seam.
 
 The body and the head are the **same diameter** — 30 stitches each, about 76 mm.
-The 18-stitch waist between them is what reads as a neck. If you would rather
-have a smaller head, stop the reflare at R13 (24 stitches) and work R14 onward
-at 24 stitches instead of 30; the duck will read more like a bird and less like
-a snowman.
+The 18-stitch waist between them is what reads as a neck.
+
+**For a smaller head**, skip the R14 reflare: work R14–R19 as `sc in each st
+around` at 24 stitches. The closing rounds are written for 30 stitches, so they
+must change too:
+
+| Rnd | Instruction | Sts |
+|---|---|---|
+| R20 | [2 sc, dec] x6 | (18) |
+| R21 | [sc, dec] x6 | (12) |
+| R22 | dec x6 | (6) |
+
+The duck then closes three rounds earlier, so it is about 2 cm shorter, and the
+head reads as distinctly smaller than the body.
 
 | Rnd | Instruction | Sts | Note |
 |---|---|---|---|

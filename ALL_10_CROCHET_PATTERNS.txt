@@ -1,0 +1,4306 @@
+================================================================
+ALL 10 CROCHET PATTERNS
+================================================================
+
+COLLECTION INFORMATION
+
+  Collection / brand ......... Novality Crochet Studio
+  Compilation and editing .... Novality Crochet Studio
+  Number of patterns ......... 10
+  Design codes ............... NS01 through NS10 (unchanged from source file names)
+  Crochet terminology ........ US terms throughout
+  Original designers and
+  copyright holders .......... See the attribution line at the head of each
+                               pattern, and the COPYRIGHT & LICENSING REVIEW
+                               at the end of this document.
+
+  A NOTE ON BRANDING. Every pattern in this collection carries the notice
+  "(c) Novality Store - Creation Studio", and the Terms of Use in nine of the
+  ten name Novality Store as the party to credit. That is a different name
+  from the collection brand used here. The original notices have been
+  reproduced verbatim and have NOT been rewritten to the collection name,
+  because doing so would alter a copyright statement. Confirm which entity
+  should appear before publishing.
+
+
+================================================================
+PATTERN 1 - DESIGN CODE NS 01 - HAMISH THE HIGHLAND COW
+================================================================
+US crochet terms - Intermediate - 15 cm / 6 in sitting - 6-8 hours
+
+A shaggy, sturdy Highland cow with a flattened brow, a wide cream muzzle and a
+weather-beaten fringe. Worked in pieces and assembled, so every proportion can
+be pinned and checked before it is sewn.
+
+
+----------------------------------------------------------------
+
+SAFETY -- READ THIS FIRST
+----------------------------------------------------------------
+
+Hamish has two 12 mm safety eyes. Safety eyes are small parts. Lock the
+washers firmly from the inside and pull-test each one on the finished toy -- a
+properly locked washer will not come off by hand. This pattern locks them after
+the muzzle is sewn, which is the right order: you cannot re-position an eye once
+the washer is on.
+
+The horns, ears, muzzle, legs and tail are all sewn on, and the fringe and
+tail are knotted yarn. Sew every seam twice, weave every end in for at least
+5 cm, and knot the fringe and tail securely. Loose strands are the first thing a
+child will pull.
+
+This pattern has not been tested to a toy-safety standard such as ASTM F963
+or EN 71, so please do not describe finished Hamishes as "baby-safe" or "suitable
+from birth" in your listings. For children under three, embroider the eyes
+with black floss instead of using safety eyes.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Yarn A -- Ginger. Worsted / aran (#4). The whole cow uses about 25 g;
+one 80 g / 150 m ball covers it several times over, which is what you want if
+you plan to make more than one or to re-do the fringe. Caramel, toffee or ginger
+gold.
+
+Yarn B -- Oat cream. Worsted / aran (#4), about 12 g. Muzzle, horns,
+inner ears, optional belly patch.
+
+Yarn C -- Dark chocolate. Worsted / aran (#4), about 5 g. Hooves and
+nostrils.
+
+Yarn D -- Rust. Optional, about 6 g for the scarf, or 28 cm of 12 mm
+tartan ribbon.
+
+Hook -- 3.5 mm (US E-4). Smaller than the ball band so stuffing cannot show.
+
+Eyes -- 2 x 12 mm black safety eyes, or embroider for under-threes.
+
+Stuffing -- Polyester fiber fill, about 30 g. Hamish holds roughly
+405 cm³; at a firm pack that is 22-32 g. The head and body alone take about
+20 g packed firmly. Buying 50 g gives you room to over-stuff the base, which
+is what makes him sit.
+
+Notions -- Stitch marker, tapestry needle, pins, scissors.
+
+
+----------------------------------------------------------------
+
+GAUGE & FINISHED SIZE
+----------------------------------------------------------------
+
+Gauge -- 11 sc x 12 rounds = 5 cm / 2 in in Yarn A (4.55 mm per stitch,
+4.17 mm per round). Not critical, but loose tension lets stuffing show -- drop
+half a millimetre if your fabric is gappy.
+
+Finished size -- About 15 cm / 6 in sitting in the worsted version, with a
+70 mm wide body and a 70 x 67 mm head.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR magic ring - ch chain - sl st slip stitch - sc single crochet
+- hdc half double crochet - inc 2 sc in one stitch - dec invisible
+decrease - BLO back loop only - FO fasten off - (n) stitch count
+
+Work in a continuous spiral unless a round says join. Mark the first stitch of
+every round. Leave 30-40 cm tails on every piece you will sew.
+
+
+----------------------------------------------------------------
+
+CORE TECHNIQUES
+----------------------------------------------------------------
+
+These are the techniques Hamish uses, in the order you will meet them.
+
+1 - THE MAGIC RING. Wrap the yarn once around two fingers, insert the hook,
+pull up a loop and work the first round into the ring, then pull the tail to
+close it. Pull the tail tight once the first round is complete.
+
+2 - WORK IN A SPIRAL. Do not join and do not ch 1 between rounds. Keep a
+stitch marker in the first stitch of every round and move it up each time --
+there is no join to count from.
+
+3 - THE INVISIBLE DECREASE. Insert the hook through the front loops only
+of the next two stitches, yarn over and pull through both, then yarn over and
+pull through the remaining two loops. Every dec in this pattern is worked this
+way; it leaves no ridge on the visible rounds.
+
+4 - BACK LOOP ONLY (BLO). Work into the far loop of the stitch only, leaving
+the near loop unused. The unused loops form a raised ridge. Hamish's hoof line
+is one BLO round.
+
+5 - WORKING AROUND A CHAIN (the oval). For the belly patch you crochet into
+both sides of a starting chain: work across the front of the chain, put the
+corner increases into the last chain, then continue back along the opposite side
+and finish into the last remaining loop. That is what turns a chain into a flat
+oval instead of a strip.
+
+6 - THE LARK'S HEAD KNOT. Fold a strand in half, push the folded loop under
+a stitch with your hook, then pull the two loose ends through the loop and
+cinch. Used for every fringe strand and for the tail.
+
+7 - LADDER STITCH. The invisible seam. Bring the needle out on one side,
+pick up one stitch bar on the opposite side, then one bar back on the first
+side, alternating, and pull snug every few stitches. The head-to-body join needs
+two full passes.
+
+
+----------------------------------------------------------------
+
+1. HEAD - YARN A - MAKE 1
+----------------------------------------------------------------
+
+Worked from the top of the head down toward the neck. One straight round only --
+this is what keeps the brow flat and wide instead of egg-shaped.
+
+RND     INSTRUCTION            STS   NOTE
+------  ---------------------  ----  -----------------------------------
+Rnd 1   6 sc in MR             (6)
+Rnd 2   inc in each st around  (12)
+Rnd 3   [sc, inc] x6           (18)
+Rnd 4   [2 sc, inc] x6         (24)
+Rnd 5   [3 sc, inc] x6         (30)
+Rnd 6   [4 sc, inc] x6         (36)  fringe row 3
+Rnd 7   [5 sc, inc] x6         (42)  fringe row 2 / horns
+Rnd 8   [6 sc, inc] x6         (48)  fringe row 1 / ears
+Rnd 9   sc in each st around   (48)  eyes at Rnd 9-10
+Rnd 10  [6 sc, dec] x6         (42)
+Rnd 11  [5 sc, dec] x6         (36)
+Rnd 12  [4 sc, dec] x6         (30)  stuff firmly, flatten front to back
+Rnd 13  [3 sc, dec] x6         (24)
+Rnd 14  [2 sc, dec] x6         (18)
+Rnd 15  [sc, dec] x6           (12)  last pinch of stuffing
+Rnd 16  dec x6                 (6)
+
+Finish. FO. Close the hole with the tail.
+
+Eyes. Place the 12 mm safety eyes between Rnds 9 and 10, 7 stitches apart
+and a touch low on the face. Seven stitches is about 32 mm, just under half the
+head width. Leave the washers off until the muzzle is pinned.
+
+Finished head measures about 70 mm wide x 67 mm tall -- a flattened sphere at
+0.96 height-to-width, which is the Highland silhouette.
+
+
+----------------------------------------------------------------
+
+2. MUZZLE - YARN B - MAKE 1
+----------------------------------------------------------------
+
+RND    INSTRUCTION            STS   NOTE
+-----  ---------------------  ----  -------------------------
+Rnd 1  6 sc in MR             (6)
+Rnd 2  inc in each st around  (12)
+Rnd 3  [sc, inc] x6           (18)
+Rnd 4  [2 sc, inc] x6         (24)
+Rnd 5  sc in each st around   (24)  face at full width, 35 mm
+Rnd 6  sc in each st around   (24)
+Rnd 7  sc in each st around   (24)
+Rnd 8  [2 sc, dec] x6         (18)  rim = 26 mm across
+
+Finish. FO, 40 cm tail. Stuff lightly.
+
+Pinning. The muzzle face is about 35 mm across -- that is the wide cream
+patch you see. The rim it is sewn by is about 26 mm, which on this gauge
+spans roughly six rounds of head.
+
+Pin the top edge just under the eyes at Rnd 10 and let the lower edge fall
+at Rnd 15-16, near the chin. Center it and let the face sit a little wider
+than the eye spacing. Sew with small whip stitches, adding a whisper more
+stuffing before you close.
+
+Nostrils (Yarn C). Two short vertical satin stitches, 3 stitches apart, on
+the lower third. Mouth. One tiny horizontal stitch or a shallow V below
+them. Lock the safety-eye washers now.
+
+
+----------------------------------------------------------------
+
+3. BODY - YARN A - MAKE 1
+----------------------------------------------------------------
+
+Worked from the bottom up toward the neck.
+
+RND     INSTRUCTION            STS   NOTE
+------  ---------------------  ----  ---------------------------
+Rnd 1   6 sc in MR             (6)
+Rnd 2   inc in each st around  (12)
+Rnd 3   [sc, inc] x6           (18)
+Rnd 4   [2 sc, inc] x6         (24)
+Rnd 5   [3 sc, inc] x6         (30)
+Rnd 6   [4 sc, inc] x6         (36)
+Rnd 7   [5 sc, inc] x6         (42)
+Rnd 8   [6 sc, inc] x6         (48)  front legs join at Rnd 8-9
+Rnd 9   sc in each st around   (48)
+Rnd 10  sc in each st around   (48)  body at full width, 70 mm
+Rnd 11  sc in each st around   (48)
+Rnd 12  sc in each st around   (48)
+Rnd 13  sc in each st around   (48)
+Rnd 14  [6 sc, dec] x6         (42)
+Rnd 15  sc in each st around   (42)
+Rnd 16  [5 sc, dec] x6         (36)
+Rnd 17  [4 sc, dec] x6         (30)  stuff firmly, pack the base
+Rnd 18  [3 sc, dec] x6         (24)
+Rnd 19  [2 sc, dec] x6         (18)  leave neck OPEN
+
+Finish. FO, 40 cm tail. Do not close.
+
+Body height is now 19 rounds ~ 79 mm, and the head adds about 67 mm. With the
+head seated on the neck ring the finished sitting height is about 15 cm / 6 in.
+
+
+----------------------------------------------------------------
+
+4. BELLY PATCH - YARN B - OPTIONAL
+----------------------------------------------------------------
+
+A two-tone belly. Skip it for a plain ginger front -- both are correct.
+
+RND         INSTRUCTION                                                                             STS         NOTE
+----------  --------------------------------------------------------------------------------------  ----------  -------------------------------------
+Foundation  ch 9                                                                                    chain only
+Rnd 1       sc in 2nd ch from hook, sc in next 6, 3 sc in last ch, sc in next 6, 2 sc in last loop  (18)        worked around both sides of the chain
+Rnd 2       inc, 6 sc, inc x3, 6 sc, inc x2                                                         (24)
+Rnd 3       sc, inc, 6 sc, [sc, inc] x3, 6 sc, [sc, inc] x2                                         (30)
+Rnd 4       2 sc, inc, 6 sc, [2 sc, inc] x3, 6 sc, [2 sc, inc] x2                                   (36)
+
+Finish. Sl st to next st. FO, long tail. Sew centered on the front of the
+body with the lower edge about 3 rounds up from the base.
+
+
+----------------------------------------------------------------
+
+5. LEGS - MAKE 4 - START YARN C
+----------------------------------------------------------------
+
+All four legs are identical; the sitting pose comes from where and at what angle
+you sew them. Sixteen rounds gives a 67 mm leg.
+
+RND     INSTRUCTION            STS   NOTE
+------  ---------------------  ----  --------------------------------------
+Rnd 1   6 sc in MR             (6)   Yarn C
+Rnd 2   inc in each st around  (12)
+Rnd 3   [sc, inc] x6           (18)
+Rnd 4   sc in each st around   (18)
+Rnd 5   sc in each st around   (18)
+Rnd 6   BLO sc around          (18)  change to Yarn A -- ridge = color line
+Rnd 7   sc in each st around   (18)
+Rnd 8   [sc, dec] x6           (12)  stuff hoof firmly
+Rnd 9   sc in each st around   (12)
+Rnd 10  sc in each st around   (12)
+Rnd 11  sc in each st around   (12)
+Rnd 12  sc in each st around   (12)
+Rnd 13  sc in each st around   (12)  upper leg light
+Rnd 14  [2 sc, dec] x3         (9)
+Rnd 15  sc in each st around   (9)
+Rnd 16  sc in each st around   (9)
+
+Finish. FO, 30 cm tail. Leave the top open.
+
+Hoof ridge. The BLO round and the color change happen on the same round
+(Rnd 6), so the ridge lands exactly on the cream-to-ginger line and reads as the
+rim of the hoof.
+
+Leg length -- read this before you sew. The legs are 67 mm long, and the
+joins are much lower than that: the front join at Rnd 8-9 is about 33-37 mm
+above the body base, and the back join at Rnd 3-6 is only 12-25 mm above it. A
+67 mm leg therefore has to splay a long way from straight down before its hoof
+lands on the surface -- about 55° from vertical at the front and about
+68-70° at the back, which is close to horizontal and out to the side. That
+is the low, sprawling Highland sit.
+
+If you would rather have a tidier, more upright sit with the hooves just in
+front of the chest, work the front pair only to Rnd 10 and stop there
+(42 mm). At that length they reach the surface at a natural 20-25° angle. Leave
+the back pair at 16 rounds as haunches. Pin all four before you sew anything.
+
+
+----------------------------------------------------------------
+
+6. EARS - MAKE 2 OF EACH LAYER
+----------------------------------------------------------------
+
+Both layers reach 12 stitches so Rnd 4 can be worked through both.
+
+Inner (Yarn B), make 2
+
+RND    INSTRUCTION     STS
+-----  --------------  ----
+Rnd 1  6 sc in MR      (6)
+Rnd 2  [sc, inc] x3    (9)
+Rnd 3  [2 sc, inc] x3  (12)
+
+Outer (Yarn A), make 2
+
+RND    INSTRUCTION           STS
+-----  --------------------  ----
+Rnd 1  6 sc in MR            (6)
+Rnd 2  [sc, inc] x3          (9)
+Rnd 3  [2 sc, inc] x3        (12)
+Rnd 4  sc in each st around  (12)
+Rnd 5  sc in each st around  (12)
+Rnd 6  [2 sc, dec] x3        (9)
+Rnd 7  sc in each st around  (9)
+
+Finish. Flatten. FO, leave a tail.
+
+Place the inner on the outer, cream side facing you, before Rnd 4. Flatten, FO,
+and pinch the base with 2-3 stitches so the ear cups forward.
+
+
+----------------------------------------------------------------
+
+7. HORNS - MAKE 2 - YARN B
+----------------------------------------------------------------
+
+RND    INSTRUCTION           STS
+-----  --------------------  ---
+Rnd 1  4 sc in MR            (4)
+Rnd 2  [sc, inc] x2          (6)
+Rnd 3  sc in each st around  (6)
+Rnd 4  sc in each st around  (6)
+Rnd 5  [2 sc, inc] x2        (8)
+Rnd 6  sc in each st around  (8)
+Rnd 7  sc in each st around  (8)
+
+Finish. Stuff the tip only. FO, leave a tail.
+
+Short and slightly curved -- tilt each one out and a little back when you sew.
+
+
+----------------------------------------------------------------
+
+8. TAIL - YARN A
+----------------------------------------------------------------
+
+Cut 6 strands of Yarn A, each 22 cm / 8.5 in. Fold the bundle in half, pull the
+folded loop through a stitch at the center-back just above the last increase
+round of the body, and pull the tails through the loop (lark's head). Folding
+the bundle gives you 12 hanging ends; divide them into 3 groups of 4 and braid
+for 4 cm. Knot firmly and trim into a small tassel.
+
+
+----------------------------------------------------------------
+
+9. THE FRINGE - YARN A
+----------------------------------------------------------------
+
+Attach after the horns and ears are sewn so you can part the hair around them.
+
+Cut 44 strands of Yarn A, each 14 cm / 5.5 in. For depth, swap 6 of them for
+Yarn C. Attach with a lark's head knot: fold a strand in half, insert the hook
+under a stitch, grab the folded loop, pull it through, then pull both tails
+through the loop and cinch.
+
+Work a horseshoe from one ear, across the brow, to the other ear, filling three
+rows on Rnds 8, 7 and 6 of the head: every stitch on Rnd 8 (the front row), then
+every other stitch on Rnds 7 and 6. Across a half-round horseshoe that is about
+24 + 10 + 9 = 43 knots, which is what the 44 strands are for.
+
+Tousle with your fingers. Trim so the fringe grazes the eyes and breaks into
+uneven points. Highland hair is weather-beaten, not a salon fringe -- if it looks
+tidy, it is not finished.
+
+
+----------------------------------------------------------------
+
+10. OPTIONAL TARTAN SCARF - YARN D
+----------------------------------------------------------------
+
+Ch 61. Row 1: hdc in 2nd ch from hook and in each ch across (60).
+Row 2: ch 1, turn, hdc across (60). FO. Add a 3-strand tassel at each end,
+or weave a second color in a slip-stitch stripe to hint at tartan. Tie loosely
+under the muzzle.
+
+Ribbon shortcut: 28 cm of 12 mm rust tartan ribbon, knotted once.
+
+
+----------------------------------------------------------------
+
+ASSEMBLY
+----------------------------------------------------------------
+
+Pin everything before you sew. Photograph the pinned piece -- it is the best
+pattern note you will ever make.
+
+1 - Muzzle & face. Already done if you followed section 2.
+
+2 - Horns. Sew between Rnds 5 and 7, 6 stitches apart, angled out and
+slightly back.
+
+3 - Ears. Sew just outside and a little below each horn, centered on
+Rnds 8-9, cupped forward.
+
+4 - Fringe. Attach and trim as in section 9.
+
+5 - Head to body. Sit the closed head on the open neck (Rnd 19 of the body,
+an 18-stitch ring about 26 mm across). Because the head is fully closed this is
+a ball-on-ring join with no flat seat, and the ring only grips the head about
+8 mm up from its base -- so it carries real weight on a shallow purchase.
+Ladder-stitch all the way around twice, pack the neck firmly before you
+start, and tilt the muzzle a few degrees down as if Hamish is listening.
+
+6 - Back legs. Sew to the lower sides of the body across Rnds 3-6, almost
+on the base, splayed out to the side. From a join this low a 67 mm leg needs
+about 68-70° from vertical before the hoof is level with the base, so they end
+up close to horizontal -- that is what makes him sit.
+
+7 - Front legs. Sew to the FRONT of the body across Rnds 8-9, about 8
+stitches apart, angled forward and down -- about 55° from vertical, per the note
+in section 5. Joined any higher, the hooves dangle.
+
+8 - Belly patch. Only if you made it.
+
+9 - Tail - 10 - Scarf. Weave in every end and squeeze to settle the
+stuffing. A shot of cool air from a hairdryer will fluff the fringe.
+
+
+----------------------------------------------------------------
+
+THREE SIZES, ONE PATTERN
+----------------------------------------------------------------
+
+VERSION        YARN                 HOOK     EYES      HEIGHT  YARN A  STUFFING
+-------------  -------------------  -------  --------  ------  ------  --------
+Wee Hamish     DK / #3              2.75 mm  8-9 mm    ~12 cm  50 g    ~15 g
+Classic        Worsted / #4         3.5 mm   12 mm     ~15 cm  80 g    ~30 g
+Cuddle Hamish  Bulky chenille / #5  5.0 mm   16-18 mm  ~21 cm  160 g   ~80 g
+
+Stitch counts stay the same. Only the yarn, hook and stuffing change. Because
+the stitch count is fixed, yarn scales with the square of the height and
+stuffing with the cube -- so the Cuddle version needs far more of both than
+it first appears, and chenille covers fewer metres per gram than worsted on top
+of that. Buy generously for the big one.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+He will not sit. Restuff the body base more firmly and sew the back legs
+lower and wider -- closer to horizontal than you think.
+
+Front hooves float. They are sewn too high. They belong on Rnds 8-9 of the
+body, not under the neck. If they still float, the legs are simply too long for
+the join: work the front pair to Rnd 10 (section 5).
+
+Stuffing shows. Drop half a hook size, or hold a matching thread with the
+yarn on visible rounds.
+
+Face looks blank. The eyes are too high. Low eyes plus a wide muzzle is the
+Highland stare.
+
+Fringe is sparse. Add a fourth row behind the horns, and mix in one darker
+shade.
+
+Horns flop. Under-stuffed at the tip, or sewn only at the edge. Stitch a
+full round into the head fabric.
+
+Head tips forward. The neck ring is small relative to the head and only
+grips it about 8 mm up. Pack the neck before closing and make the second
+ladder-stitch pass tight.
+
+
+----------------------------------------------------------------
+
+THE FINISHED PROJECT
+----------------------------------------------------------------
+
+All pieces before assembly. Lay every component out and check it against
+the pattern before you sew anything: 1 head, 1 muzzle, 1 body, 4 legs, 2 inner
+and 2 outer ears, 2 horns, a tail and a fringe -- plus the belly patch and scarf
+if you are making them.
+
+Finished project. Hamish sitting, with the front hooves flat on the surface.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE
+----------------------------------------------------------------
+
+This pattern is for personal use and small-batch finished sales. You may sell
+physical finished items made from this pattern provided credit is given to
+Novality Store. Selling, altering, copying or redistributing this digital PDF is
+strictly prohibited.
+
+================================================================
+PATTERN 2 - DESIGN CODE NS 02 - KAWAII HALLOWEEN MINI SET
+================================================================
+Boo the Ghost - Pip the Pumpkin - Bramble the Bat
+
+US crochet terms - Intermediate - 2.0-2.2 in / 5-5.5 cm each
+
+Three pocket-sized Halloween minis: a ruffled bell ghost, a deeply sculpted squat
+pumpkin and a picot-winged bat. Small, fast and forgiving -- but the picots, the
+worked-in-the-round-then-flat wing, and the needle sculpting on Pip put this above
+a first project.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Yarn -- DK / light worsted (#3) cotton.
+Cream about 8 g (Boo) - pastel orange about 10 g (Pip) - lavender about 9 g
+(Bramble) - sage green about 4 g (stem, tendril and leaf) - pale pink about 2 g
+(ear linings).
+
+These are working amounts, not measured consumption. The set itself uses well
+under 5 g of each color; the figures allow for tails, sewing, swatching and a
+second attempt. One small ball of each color is more than enough.
+
+Hook -- 2.5 mm (US C-2). Tight enough that stuffing cannot show.
+
+Safety eyes -- 2 pairs of 6 mm: one pair for Boo, one pair for Bramble. Pip is
+a sculpted pumpkin with an embroidered face and needs none.
+
+Floss -- Black for Boo's smile and Pip's face, pink for blush, white for
+Bramble's fangs.
+
+Stuffing -- Polyester fiber fill. Pip takes about 2 g, Bramble about 1 g.
+Boo takes none -- he is an open bell that stands on his hem. About 5 g covers
+the set with margin.
+
+Notions -- Tapestry needle, stitch markers, pins, scissors.
+
+    Safety. Boo and Bramble use safety eyes, which are a small part and a
+    choking hazard. These minis are decorative pieces, not toys for young children,
+    and they have not been tested to a toy-safety standard such as ASTM F963 or
+    EN 71. If you want to give them to a child, embroider the faces instead of using
+    safety eyes and check every seam first.
+
+
+----------------------------------------------------------------
+
+GAUGE
+----------------------------------------------------------------
+
+DK cotton on a 2.5 mm hook: about 3.5 mm per stitch and 3.2 mm per round.
+
+Check it on Pip after Rnd 6 -- 36 stitches should measure about 40 mm around a
+firmly stuffed body. Every measurement in this pattern follows from that gauge.
+
+
+----------------------------------------------------------------
+
+FINISHED SIZE
+----------------------------------------------------------------
+
+         width                                                         height
+-------  ------------------------------------------------------------  -------------------------------
+Boo      27 mm at the body, flaring to about 40 mm at the ruffled hem  48 mm including the hem
+Pip      40 mm                                                         42 mm
+Bramble  33 mm                                                         51 mm, plus an 11.5 cm wingspan
+
+Note on Boo: his width and height are measured on different parts of him. The
+27 mm figure is the body tube; the ruffled hem flares well past it. If you quote
+one number, quote the hem.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR         magic ring
+---------  -----------------------------------------
+ch         chain
+sl st      slip stitch
+sc         single crochet
+hdc        half double crochet
+dc         double crochet
+inc        increase -- 2 sc in one stitch
+dec        invisible decrease
+FLO / BLO  front loops only / back loops only
+picot      ch 3, sl st in the 3rd ch from the hook
+[n]        the stitch count at the end of that round
+
+
+----------------------------------------------------------------
+
+WORKING NOTES
+----------------------------------------------------------------
+
+Work the bodies in continuous spiral rounds -- do not join and do not chain 1
+between rounds. Move a stitch marker into the first stitch of every round.
+
+Bramble's wings are the exception: they are worked flat, in turned rows.
+
+Unless a note says otherwise, work every stitch through both loops.
+
+
+----------------------------------------------------------------
+
+HOW IT COMES TOGETHER
+----------------------------------------------------------------
+
+The four techniques this set depends on, in the order you meet them.
+
+1 - The picot
+
+Chain 3, then slip stitch into the 3rd chain from the hook. That makes one small
+pointed bump. Picots are used on Bramble's wing edges -- they are what make the
+wings read as bat wings rather than leaves.
+
+Keep your picot tension even. A loose picot loops; an over-tight one curls under
+and disappears.
+
+2 - Working into one loop only
+
+Boo's ruffled hem is worked into the front loops of Rnd 12, which leaves the
+back loops free as a clean ring to sew the optional base onto. Bramble's hat brim
+works the same way.
+
+When a round says FLO or BLO, insert your hook under only that loop. The unused
+loop stays visible as a ridge on the other side -- that ridge is the join line, and
+it is meant to be there.
+
+3 - The ruffle shell
+
+Boo's hem repeats this group: 2 sl st, then (sc, hdc, dc, hdc, sc) all into the
+next single stitch, then 1 sl st.
+
+Five stitches into one stitch is what makes the fabric flare. Each repeat takes
+4 stitches of the round and returns 8, so the edge doubles in length and ruffles.
+
+Six repeats use all 24 stitches of Rnd 12 and produce 48 stitches -- six ruffles.
+
+4 - Needle sculpting
+
+This is what turns Pip from an orange ball into a pumpkin, and it is the reason
+for the long tail you are told to leave.
+
+You will run that tail through the stuffed body with a tapestry needle, entering
+and exiting at the top and bottom, then pull and anchor it. Each pass pins a
+channel into the surface. Six evenly spaced passes make six ribs.
+
+The full method is in Pip's assembly, step by step. The short version: overstuff
+first, because sculpting compresses the filling and a soft pumpkin will not hold
+a rib.
+
+
+----------------------------------------------------------------
+
+1 - BOO THE RUFFLED GHOST
+----------------------------------------------------------------
+
+Worked top-down in cream. Boo is an open bell -- he has no closed bottom and he
+takes no stuffing. He stands on the weight of his ruffled hem.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  ------------------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)
+R5   sc in each st around   (24)
+R6   sc in each st around   (24)
+R7   sc in each st around   (24)
+R8   [11 sc, inc] x2        (26)  eyes go on R8-R9
+R9   sc in each st around   (26)
+R10  sc in each st around   (26)  arms attach at R10
+R11  sc in each st around   (26)
+R12  [11 sc, dec] x2        (24)  live edge -- hem and base both attach here
+
+Do not fasten off. Continue straight into the hem.
+
+Boo - ruffled hem
+
+Work into the front loops of Rnd 12.
+
+RND  INSTRUCTION                                                                  STS   NOTE
+---  ---------------------------------------------------------------------------  ----  ----------------------------------------
+R13  FLO: [sl st in next 2, (sc, hdc, dc, hdc, sc) in next st, sl st in next] x6  (48)  each repeat takes 4 sts -- closes all 24
+
+Finish. FO and weave in. You should have 6 ruffles. The hem adds about 10 mm
+of depth, which is included in Boo's 48 mm height.
+
+Boo - eyes
+
+Insert the 6 mm safety eyes before you sew anything, while Boo's open bottom
+still gives you room to reach the washers. Place them on Rnd 8-9, about
+5 stitches apart, centerd on the front.
+
+Boo's widest round is 26 stitches, so 5 stitches puts the eyes well inside the
+front of the face. Fit the washers from inside.
+
+Boo - smile and blush
+
+With black floss, embroider a small curved smile centerd below the eyes. With pink
+floss, add a short horizontal stitch either side for blush.
+
+Boo - arms -- make 2
+
+RND  INSTRUCTION           STS
+---  --------------------  ---
+R1   5 sc in MR            (5)
+R2   sc in each st around  (5)
+R3   sc in each st around  (5)
+
+Finish. FO with a 6 in tail. Do not stuff. Sew to the sides at Rnd 10, angled
+slightly forward.
+
+Boo - flat base -- optional
+
+Boo stands on his hem without this. Make the disc only if you want a closed,
+weighted bottom that lets him stand on an uneven surface.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  ----------------------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)  flat disc, matches the 24 back loops of Rnd 12
+
+Finish. FO with a long tail. Do not close it -- it stays flat.
+
+Sew it to the back loops of Rnd 12, from inside, leaving the hem free to flare
+below it. A few stitches of the disc can be lightly padded if you want extra
+weight.
+
+Boo - bonus mini witch hat
+
+The brim stops at 20 stitches so the hat sits on Boo rather than swamping him.
+
+RND  INSTRUCTION                 STS   NOTE
+---  --------------------------  ----  ----
+R1   4 sc in MR                  (4)
+R2   [sc, inc] x2                (6)
+R3   [2 sc, inc] x2              (8)
+R4   [3 sc, inc] x2              (10)
+R5   sc in each st around        (10)
+R6   FLO: inc in each st around  (20)  brim
+
+Finish. Sl st, FO.
+
+The brim attaches on a ring about 22 mm across and its outer edge sits about
+26 mm out -- just under Boo's 27 mm head, so the hat rests on him instead of
+swamping him. Sew it on tilted.
+
+
+----------------------------------------------------------------
+
+2 - PIP THE SCULPTED PUMPKIN
+----------------------------------------------------------------
+
+Worked bottom-up in pastel orange. Only two straight rounds -- that is what keeps
+Pip squat rather than tall like a lemon.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  ------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)
+R5   [3 sc, inc] x6         (30)
+R6   [4 sc, inc] x6         (36)  full width -- check gauge here
+R7   sc in each st around   (36)
+R8   sc in each st around   (36)
+R9   [4 sc, dec] x6         (30)
+R10  [3 sc, dec] x6         (24)  stuff firmly, then overstuff
+R11  [2 sc, dec] x6         (18)
+R12  [sc, dec] x6           (12)
+R13  dec x6                 (6)
+
+Finish. Do not cut the yarn short. FO leaving a 25 in / 65 cm tail -- you
+need that length for sculpting, and you cannot add it later.
+
+Pip - sculpting the ribs
+
+Overstuff Pip before you start. Sculpting compresses the filling, and a soft
+pumpkin will not hold a rib.
+
+  1. Thread the 65 cm tail onto a tapestry needle.
+  2. Find the center of the top (the R13 opening) and the center of the bottom (the
+   R1 magic ring). These are your two anchor points. Every pass goes in one and
+   out the other.
+  3. Bring the needle down through the top center and out at the bottom center.
+   Pull gently until the surface just begins to dimple -- do not strangle it.
+  4. Move 6 stitches sideways along the bottom, bring the needle back up to the
+   top center, and pull again. Anchor with a small stitch so the tension holds.
+  5. Repeat, moving 6 stitches each time, until you have made 6 passes all the
+   way around. Six passes on a 36-stitch body divides it into six even ribs.
+  6. When the last rib is set, knot the tail against the surface, run the needle
+   into the body and out the side, then pull the knot inside and trim.
+
+Pull every rib to the same tension. One tight rib and five loose ones is the
+most common way this goes wrong.
+
+Pip - face
+
+With black floss, embroider two small triangles for eyes on the front, roughly
+level with the middle of the body and about 6 stitches apart, then a short zigzag
+mouth below them. Keep the face inside one rib panel so the sculpting does not
+cross it.
+
+Pip - stem cone -- sage green
+
+RND  INSTRUCTION           STS   NOTE
+---  --------------------  ----  -----------
+R1   6 sc in MR            (6)
+R2   sc in each st around  (6)
+R3   [sc, inc] x3          (9)
+R4   sc in each st around  (9)
+R5   [2 sc, inc] x3        (12)  flared base
+
+Finish. FO with an 8 in tail. Stuff very lightly. Sew to the top center of Pip,
+over the R13 opening.
+
+Pip - tendril -- sage green
+
+Ch 20. Starting from the 2nd ch from the hook, work sl st in each ch to the
+end. FO, leaving a tail.
+
+The slip stitches make the chain curl into a tight spiral. Wind it once around the
+base of the stem and sew the end down. If it will not hold a curl, work it a few
+chains longer and wind it more loosely.
+
+Pip - leaf -- sage green, make 1
+
+Worked flat, in turned rows.
+
+ROW         INSTRUCTION
+----------  ---------------------------------------------------------------------------------------------------------------------------------------------------
+Foundation  ch 7
+Row 1       From the 2nd ch from the hook: sc in 5, 3 sc in the last ch; working back along the opposite side of the foundation chain, sc in 4, inc in the last
+Row 2       ch 1, turn. sc in 4, inc in each of the next 3, sc in 4
+Row 3       ch 1, turn. sl st in each st around. FO
+
+Finish. The slip-stitch row gives the leaf a firm rolled edge. Sew it to the
+stem base, angled out to one side, opposite the tendril.
+
+
+----------------------------------------------------------------
+
+3 - BRAMBLE THE MINI BAT
+----------------------------------------------------------------
+
+Worked top-down in lavender.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  ----------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)
+R5   sc in each st around   (24)
+R6   sc in each st around   (24)
+R7   sc in each st around   (24)  eyes go on R7-R8
+R8   sc in each st around   (24)
+R9   [3 sc, inc] x6         (30)  wings attach at R9-R11
+R10  sc in each st around   (30)
+R11  sc in each st around   (30)
+R12  sc in each st around   (30)
+R13  [3 sc, dec] x6         (24)  stuff firmly
+R14  [2 sc, dec] x6         (18)
+R15  [sc, dec] x6           (12)
+R16  dec x6                 (6)
+
+Finish. FO with a 6 in tail. Weave it through the final 6 stitches and pull
+closed.
+
+Bramble - eyes
+
+Insert the 6 mm safety eyes after Rnd 8, before you continue to Rnd 9. Bramble
+closes completely at Rnd 16, so this is your last chance to fit the washers from
+inside.
+
+Place them on Rnd 7-8, 4 stitches apart, centerd on the front. Four
+stitches is close, and deliberately so -- Bramble's head is only 24 stitches around,
+and wide-set eyes on a head this small wrap around to the sides.
+
+Bramble - ears
+
+The pink piece is sewn on top of the lavender one, so there is no two-layer join
+to get wrong.
+
+Outer -- lavender, make 2
+
+RND  INSTRUCTION     STS
+---  --------------  ----
+R1   4 sc in MR      (4)
+R2   [sc, inc] x2    (6)
+R3   [2 sc, inc] x2  (8)
+R4   [3 sc, inc] x2  (10)
+
+Inner -- pale pink, make 2
+
+RND  INSTRUCTION     STS
+---  --------------  ---
+R1   4 sc in MR      (4)
+R2   [sc, inc] x2    (6)
+R3   [2 sc, inc] x2  (8)
+
+Finish. FO with an 8 in tail on each. Flatten, do not stuff.
+
+Sew a pink inner onto each lavender outer, then sew the pairs to the top of the
+head at about Rnd 4-5, angled slightly outward.
+
+Bramble - scalloped picot wings -- make 2
+
+Worked flat, in turned rows.
+
+Ch 13.
+
+Row 1. From the 2nd ch from the hook: sc in 4, hdc in 4, dc in 4. Ch 1, turn.
+[12]
+
+Row 2. sc in 3, hdc in 4, dc in 5. Ch 1, turn. [12]
+
+Row 3. sl st in the first 2, (sc, hdc, dc, picot, dc, hdc, sc) in the next
+st, sl st in the next 3, (sc, hdc, picot, hdc, sc) in the next st, sl st in the
+next 2, (sc, hdc, picot, hdc, sc) in the next st, sl st in the last 2.
+
+Finish. FO with a 10 in tail.
+
+The slip-stitch groups are 2 / 3 / 2 / 2 -- nine stitches -- which with the three
+scallops, worked into one stitch each, consumes all 12 stitches of Row 2. Nothing
+is left over, so if you have a stitch remaining you have miscounted a group.
+
+The three scallops are deliberately different sizes: the middle one is 7
+stitches tall with a dc at its peak, and the two outer ones are 5 stitches with an
+hdc peak. That is what gives the wing its pointed tip and two smaller lobes
+beside it. Each scallop carries exactly one picot.
+
+Bramble - assembly
+
+Pin the wings to the back and sides between Rnd 9 and Rnd 11, angled out and
+slightly up, then sew along the straight inner edge.
+
+Each wing is about 42 mm long. With a 33 mm body, that gives a wingspan of roughly
+11.5 cm.
+
+With white floss, work two small V-stitches just under the eyes for fangs. With
+pink floss, add blush.
+
+
+----------------------------------------------------------------
+
+DISPLAY -- HALLOWEEN GARLAND
+----------------------------------------------------------------
+
+Cut 6 ft of jute twine, or chain 450 in sage. A chained cord is much shorter
+than it looks: 150 chains measures only about 60 cm, so you need roughly 450 for a
+6 ft cord. Chain a few extra and measure rather than counting exactly.
+
+Make 3 ghosts, 3 pumpkins and 3 bats. Thread 20 mm felt balls between them, and
+tie or slip-stitch each piece to the cord 4-5 in apart.
+
+Yarn for a full garland: about 25 g cream, 30 g orange, 27 g lavender and 12 g
+sage -- three of each.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Pumpkin looks tall -- You worked more than two straight rounds at Rnd 7-8.
+Extra plain rounds are what turn a pumpkin into a lemon.
+
+Ribs vanish -- Overstuff before sculpting, and pull each rib firmly and to the
+same tension. A soft pumpkin will not hold a rib, and one over-tight rib will pull
+the whole body out of round.
+
+Ruffle gaps at the marker -- Each hem repeat must take exactly 4 stitches:
+2 sl st, the shell into 1 stitch, then 1 sl st. Six repeats use all 24.
+
+Wing row runs short -- The Row 3 groups are 2 / 3 / 2 / 2. Count the slip
+stitches, not the scallops.
+
+Wing scallops look uneven -- They are meant to be. The middle scallop is the
+largest; the two outer ones are smaller. Check you have not swapped their order.
+
+Ghost leans -- Rnd 8's two increases must be 13 stitches apart.
+[11 sc, inc] x2 places them symmetrically.
+
+Ghost will not stand -- Boo takes no stuffing and stands on his hem. If he
+keeps falling, sew on the optional flat base for weight.
+
+Hat swamps the ghost -- Stop the brim at Rnd 6, 20 stitches. A 30-stitch brim
+flares to about 36 mm against Boo's 27 mm head.
+
+Cannot fit the eye washers -- You closed the piece first. Boo's eyes go in
+through his open bottom; Bramble's must go in after Rnd 8, before the body narrows
+and closes at Rnd 16.
+
+
+----------------------------------------------------------------
+
+COLORWAYS
+----------------------------------------------------------------
+
+Classic cream, orange and lavender. Also: all-white with silver wings, charcoal
+with orange, or sage-and-oatmeal for a muted autumn set.
+
+
+----------------------------------------------------------------
+
+BEFORE YOU ASSEMBLE
+----------------------------------------------------------------
+
+Lay every component out and check it against the pattern before you sew anything:
+
+  - Boo -- 1 body with hem, 2 arms, 1 optional base, 1 witch hat
+  - Pip -- 1 sculpted body, 1 stem cone, 1 tendril, 1 leaf
+  - Bramble -- 1 body, 2 lavender ears, 2 pink ear linings, 2 wings
+
+Pin each piece and look at the toy from the front before committing a single
+stitch.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE. This pattern is for personal use and small-batch finished sales.
+You may sell physical finished items made from this pattern provided credit is
+given to Novality Store. Selling, altering, copying or redistributing this digital
+PDF is strictly prohibited.
+
+(c) Novality Store - Creation Studio.
+
+================================================================
+PATTERN 3 - DESIGN CODE NS 03 - AXEL THE AXOLOTL
+================================================================
+US crochet terms - Advanced beginner - 2.5-3 hours
+
+A soft pink axolotl with six fluffy gills, a round head and a shell-edged paddle
+tail. Head, neck, body and tail are worked as one continuous spiral, so there is
+no neck seam to sew.
+
+Axel measures about 11.5 cm (4.5 in) tall seated, about 10 cm (4 in) wide
+gill tip to gill tip, with a 4.3 cm (1.7 in) tail. The head is a true sphere
+at 52 mm wide x 51.6 mm tall.
+
+
+----------------------------------------------------------------
+
+SAFETY -- READ THIS FIRST
+----------------------------------------------------------------
+
+Axel has two 6 mm safety eyes. Safety eyes are small parts. Lock the washers
+firmly from the inside before stuffing, and pull-test every eye on the finished
+toy -- a properly locked washer will not come off by hand.
+
+The gills, arms, feet and tail fin are all sewn on. Sew each seam twice and
+weave every end in for at least 5 cm, then trim close. A loose gill is the first
+thing a child will pull.
+
+This pattern has not been tested to a toy-safety standard such as ASTM F963
+or EN 71, so please do not describe finished Axels as "baby-safe" or "suitable
+from birth" in your listings. For children under 3, embroidered eyes are the
+safer choice: skip the safety eyes and stitch the eyes with black floss instead.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Main yarn -- Worsted #4, pale pink, about 15 g. Cotton or acrylic, smooth
+matte finish. One 25 g ball covers the whole axolotl with plenty to spare.
+
+Gill yarn -- Fuzzy / eyelash / fur yarn, dark pink, about 8 g. Essential:
+worsted will not give fluffy gills, and the gills are the whole look.
+
+Fin yarn -- Worsted #4, dark pink, about 3 g. Smooth yarn, so the shell
+edging stays crisp.
+
+Hook -- 3.5 mm (US E-4). Tight gauge so stuffing cannot show through.
+
+Eyes -- 2 x 6 mm safety eyes. 9 mm reads as buggy on this head.
+
+Also needed -- Polyfill about 8 g; tapestry needle; black embroidery
+floss; pink pastel or chalk; stitch marker.
+
+
+----------------------------------------------------------------
+
+GAUGE & FINISHED SIZE
+----------------------------------------------------------------
+
+Gauge -- 36 sc around measures about 52 mm in diameter when stuffed
+(4.5 mm per stitch, 4.3 mm per round).
+
+Check it before you start: crochet 36 sc in the round for 3 rounds, stuff it,
+and measure across. If it comes out wider than 55 mm, drop to a 3.0 mm hook; if
+it comes out under 48 mm, go up to a 4.0 mm.
+
+Finished size -- About 11.5 cm (4.5 in) tall seated, about 10 cm (4 in) wide
+gill tip to gill tip, with a 4.3 cm (1.7 in) tail.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR magic ring - ch chain - sc single crochet - dc double crochet -
+inc increase, 2 sc in one stitch - invdec invisible decrease -
+sl st slip stitch - st(s) stitch(es) - FO fasten off -
+(n) stitch count at the end of the round
+
+
+----------------------------------------------------------------
+
+CORE TECHNIQUES
+----------------------------------------------------------------
+
+These are the five techniques Axel uses, in the order you will meet them.
+
+1 - THE MAGIC RING. Every piece begins with a magic ring. Wrap the yarn once
+around two fingers, insert the hook, pull up a loop and work your first round
+into the ring, then pull the tail to close it. Pull the tail tight once the
+first round is complete.
+
+2 - WORK IN A SPIRAL. Do not join and do not ch 1 between rounds -- just keep
+going round after round. Keep a stitch marker in the first stitch of every round
+and move it up each time; there is no join to count from.
+
+3 - THE INVISIBLE DECREASE. Insert the hook through the front loops only
+of the next two stitches, yarn over and pull through both, then yarn over and
+pull through the remaining two loops. This leaves no ridge, which matters on the
+head and neck where the decreases are visible.
+
+4 - CLOSING THROUGH BOTH LAYERS. To close a flat opening, fold the piece
+flat so the front and back layers lie together, then work one sc through both
+layers at a time. Axel's 6-stitch tail tip closes as 3 clean pairs.
+
+5 - THE SHELL (SCALLOP). Work all the stitches of the group into one
+stitch, then slip stitch into the next stitch to anchor it. The group fans out
+into a cup. Working the dc loosely makes each scallop cup outward instead of
+lying flat.
+
+
+----------------------------------------------------------------
+
+1. HEAD, NECK, BODY & TAIL -- ONE PIECE
+----------------------------------------------------------------
+
+Worked in a single spiral from the top of the head straight through to the tail
+tip. Head and body are both 36 stitches around; the neck at R13 is the only
+waist. Three straight rounds at the head keep it spherical rather than
+egg-shaped.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  -----------------------
+R1   6 sc in MR             (6)   start at top of head
+R2   inc in each st around  (12)
+R3   [1 sc, inc] x6         (18)
+R4   [2 sc, inc] x6         (24)
+R5   [3 sc, inc] x6         (30)
+R6   [4 sc, inc] x6         (36)  head at full width
+R7   sc in each st around   (36)  eyes between R7/R8
+R8   sc in each st around   (36)
+R9   sc in each st around   (36)  smile on R8-R9
+R10  [4 sc, invdec] x6      (30)
+R11  [3 sc, invdec] x6      (24)  STUFF HEAD FIRMLY
+R12  [2 sc, invdec] x6      (18)
+R13  sc in each st around   (18)  NECK -- narrowest point
+R14  [2 sc, inc] x6         (24)  body flares out
+R15  [3 sc, inc] x6         (30)
+R16  [4 sc, inc] x6         (36)  body at full width
+R17  sc in each st around   (36)  arms attach at R17-R18
+R18  sc in each st around   (36)
+R19  sc in each st around   (36)
+R20  sc in each st around   (36)
+R21  sc in each st around   (36)
+R22  sc in each st around   (36)
+R23  [4 sc, invdec] x6      (30)
+R24  [3 sc, invdec] x6      (24)  FEET at R24-R25
+R25  [2 sc, invdec] x6      (18)  stuff body LIGHTLY
+R26  [1 sc, invdec] x6      (12)
+R27  sc in each st around   (12)  tail begins
+R28  [2 sc, invdec] x3      (9)
+R29  sc in each st around   (9)
+R30  sc in each st around   (9)
+R31  sc in each st around   (9)
+R32  [1 sc, invdec] x3      (6)   light stuffing to here
+R33  sc in each st around   (6)
+R34  sc in each st around   (6)
+R35  sc in each st around   (6)
+R36  sc in each st around   (6)   taper to tip
+
+Finish. Flatten the tip and work 3 sc through both layers -- 6 stitches
+closes as 3 clean pairs. FO.
+
+Weave the final yarn end back through the tail tip and out along the top ridge --
+you will crochet the fin directly onto that ridge in step 4. The tail runs
+R27-R36, ten rounds ~ 43 mm, which is what gives the fin a long enough ridge to
+sit on.
+
+
+----------------------------------------------------------------
+
+2. ARMS & FEET -- MAKE SEPARATELY, THEN SEW
+----------------------------------------------------------------
+
+The arms and feet are sewn on, not worked into the body -- bobbles will not give
+you rounded limbs.
+
+Arm -- make 2 (pale pink)
+
+RND  INSTRUCTION           STS
+---  --------------------  ---
+R1   6 sc in MR            (6)
+R2   sc in each st around  (6)
+R3   sc in each st around  (6)
+R4   sc in each st around  (6)
+R5   sc in each st around  (6)
+R6   sc in each st around  (6)
+
+Finish. FO, long tail, do not stuff.
+
+Foot -- make 2 (pale pink)
+
+RND  INSTRUCTION           STS
+---  --------------------  ---
+R1   6 sc in MR            (6)
+R2   [1 sc, inc] x3        (9)
+R3   sc in each st around  (9)
+R4   sc in each st around  (9)
+R5   [1 sc, invdec] x3     (6)
+
+Finish. FO, cinch closed, long tail.
+
+Arms stay unstuffed so they hang softly; flatten the open end and sew it closed
+as you attach. Feet are lightly stuffed and cinched round -- do not flatten them,
+they are plump little balls.
+
+
+----------------------------------------------------------------
+
+3. GILLS -- MAKE 6 (3 PER SIDE)
+----------------------------------------------------------------
+
+Use the fuzzy yarn here. This is the single biggest visual difference between a
+flat-looking axolotl and a real one.
+
+RND  INSTRUCTION            STS
+---  ---------------------  ----
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   sc in each st around   (12)
+R4   sc in each st around   (12)
+R5   [1 sc, invdec] x4      (8)
+
+Finish. FO, long tail for sewing.
+
+Working with fuzzy yarn. You cannot see the stitches. Two things make it
+easy: hold a thin strand of matching smooth yarn together with the fur yarn so
+you can find the stitches, or count by feel with the hook tip and trust the
+round count. Small errors are invisible in the finished fluff.
+
+
+----------------------------------------------------------------
+
+4. TAIL FIN -- SHELL EDGING
+----------------------------------------------------------------
+
+With smooth dark pink yarn, join with a sl st to the top ridge of the tail at
+the very tip. Working along the ridge back towards the body:
+
+\*5 dc in the next ridge stitch, sl st in the next ridge stitch. Repeat from
+\* a total of 5 times (5 scallops). FO and weave in.
+
+Each scallop uses 2 ridge stitches, so the fin spans 10 stitches. The tail from
+R27 to R36 gives a ridge of about 10 workable stitches along one side, so 5
+scallops fit it exactly -- start at the tip and work back toward the body. Work
+the dc groups loosely so each scallop cups outward instead of lying flat.
+
+For a fuller paddle, work a second identical 5-scallop row along the underside
+ridge rather than trying to stretch one row around the tip.
+
+
+----------------------------------------------------------------
+
+5. FACE & ASSEMBLY
+----------------------------------------------------------------
+
+Eyes. Insert the 6 mm safety eyes between R7 and R8, 6 stitches apart,
+centered on the front of the head. Six stitches spans about 27 mm on the 52 mm
+head -- exactly half the width. Fix the washers before stuffing, and pull-test
+each eye once it is locked.
+
+Smile. With black floss, embroider a wide shallow U across R8-R9, centered
+between the eyes and about 5 stitches wide. Keep it shallow; a deep curve reads
+as a frown.
+
+Blush. Brush soft pink pastel or chalk in a small circle directly under each
+eye, just outside the eye line.
+
+Gills. Sew 3 lobes to each side of the head, behind the eyes, anchored at
+about R6 (upper), R7-R8 (middle) and R9 (lower). Angle the top lobe upward, the
+middle one straight out and the bottom one downward so they fan. Then tease the
+fibers apart with a slicker brush or your fingers.
+
+Arms. Sew one arm to each side at R17-R18, about 6 stitches out from the
+center front, angled slightly forward.
+
+Feet. Sew one foot to each side of the center front at R24-R25, about 4
+stitches out from center, so Axel sits flat and upright.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Head firm, body soft. Stuff the head hard at R11 so it holds a sphere and
+the eyes stay level. Keep the body light so Axel stays squishy and sits down.
+
+Neck collapsing. The 18-stitch neck is deliberately narrow. First try
+packing a little more stuffing into the neck through the body opening before you
+close R25. For a permanently sturdier neck, work R13 as [7 sc, inc] x2, 2 sc
+(20) -- and then change R14 to [4 sc, inc] x4 (24) so the round consumes all 20
+stitches. R15 onward is unchanged.
+
+Fin runs out of tail. The ridge holds 10 stitches and 5 scallops need
+exactly 10. If you shortened the tail, work fewer scallops rather than crowding
+them.
+
+Want a wider gill span? The gills as written give about 10 cm tip to tip.
+Work each gill two rounds longer -- add 2 plain rounds at 12 stitches before R5 --
+for a span of about 12 cm.
+
+Stuffing shows through. Go down to a 3.0 mm hook. Loose gauge on a 3.5 mm
+hook is the usual cause.
+
+Axel will not sit. Move the feet one round lower and make sure the R23-R26
+decreases are centered on the underside, not the back.
+
+
+----------------------------------------------------------------
+
+COLORWAYS
+----------------------------------------------------------------
+
+Classic pink; white leucistic (white body, pale pink gills); melanoid black
+(charcoal body, grey gills); mint; and lavender.
+
+
+----------------------------------------------------------------
+
+THE FINISHED PROJECT
+----------------------------------------------------------------
+
+Axel seated, gills teased out and the shell fin along the tail.
+
+Lay every component out and check it against the pattern before you sew
+anything: 1 body, 2 arms, 2 feet, 6 gills, 1 fin.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE
+----------------------------------------------------------------
+
+This pattern is for personal use and small-batch finished sales. You may sell
+physical finished items made from this pattern provided credit is given to
+Novality Store. Selling, altering, copying or redistributing this digital PDF is
+strictly prohibited.
+
+================================================================
+PATTERN 4 - DESIGN CODE NS 04 - COCO THE CAPYBARA
+================================================================
+US crochet terms - Intermediate - 2.5-3 hours
+
+A low, round, bottom-heavy capybara with a blunt sewn-on muzzle, plump stuffed
+legs and a calm embroidered sleeping face. The face is embroidered, so there are
+no safety eyes and no small plastic parts.
+
+Coco stands on all four legs and measures about 10.3 cm (4 in) tall and
+5 cm (2 in) wide.
+
+
+----------------------------------------------------------------
+
+SKILL LEVEL
+----------------------------------------------------------------
+
+Every round in this pattern is beginner-level: magic ring, single crochet,
+increase and invisible decrease.
+
+The one step that is not beginner-level is the two-layer leg join at Rnd 4
+and Rnd 5, where you crochet a finished leg and the body together in a single
+stitch. It is explained in full in technique 3, and it is worth practicing once
+on a scrap magic ring before you start the body.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Main yarn -- Worsted weight (#4), warm brown, about 30 g. A smooth matte yarn
+shows the stitch texture best.
+
+Face yarn -- Worsted weight (#4), dark brown, about 5 g, for the closed eyes,
+nose and mouth. Use the same weight as the main yarn; a lighter yarn changes how
+the embroidery sits on the face.
+
+Hook -- 3.0 mm (US C-2 or D-3). The gauge below is written for this hook.
+
+Eyes -- None. The sleeping face is embroidered.
+
+Also needed -- Polyester fiber filling, about 5-8 g; yarn needle; stitch
+marker; pins. Pins matter here -- the muzzle and the ears are pinned in place
+before they are sewn.
+
+    Safety. Coco has no safety eyes and no small plastic parts, which makes the
+    face safer than a safety-eyed toy. That does not make the finished toy suitable
+    for babies. Coco is a stuffed toy with a sewn-on muzzle and sewn-on ears, and
+    it has not been tested to a toy-safety standard such as ASTM F963 or EN 71.
+    Intended as a decorative item, or a gift for a child old enough not to chew it.
+    Check the seams before giving Coco to a young child.
+
+
+----------------------------------------------------------------
+
+GAUGE
+----------------------------------------------------------------
+
+Worked on a 3.0 mm hook and stuffed: 36 single crochet around measures about
+52 mm in diameter. That is 4.5 mm per stitch and 4.3 mm per round.
+
+Check your gauge on the body after Rnd 6 rather than on a flat swatch. A stuffed
+tube is the only honest test for amigurumi, and it is the measurement every
+dimension in this pattern depends on.
+
+If your 36 stitches measure wider than 52 mm, your tension is loose -- crochet
+more tightly, or go down a hook size. Coco at a loose gauge will show her
+stuffing.
+
+
+----------------------------------------------------------------
+
+FINISHED SIZE
+----------------------------------------------------------------
+
+About 10.3 cm (4 in) tall standing on all four legs, and 5 cm (2 in) wide
+at the widest part of the body.
+
+Coco is meant to be squat and bottom-heavy. Her legs are short relative to the
+round body, and the body is one continuous curve from base to crown.
+
+The height is the body plus the legs:
+
+Body, Rnd 1 to Rnd 20                        20 rnd x 4.3 mm = 86 mm
+-------------------------------------------  --------------------------
+Front legs                                   9 rnd x 4.3 mm = 38.7 mm
+Back legs                                    8 rnd x 4.3 mm = 34.4 mm
+Height the legs lift the body off the table  17 mm
+Total standing height                        86 + 17 = 103 mm ~ 10.3 cm
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR      magic ring
+------  -----------------------------------------
+ch      chain
+sc      single crochet
+inc     increase -- 2 sc in one stitch
+invdec  invisible decrease
+sl st   slip stitch
+st(s)   stitch(es)
+Rnd(s)  round(s)
+FO      fasten off
+(n)     the stitch count at the end of that round
+
+
+----------------------------------------------------------------
+
+WORKING NOTES
+----------------------------------------------------------------
+
+Work in continuous spiral rounds. Do not join at the end of a round and do
+not chain 1 between rounds. Move a stitch marker into the first stitch of every
+round -- in a spiral there is no join to count from, and the marker is the only
+way to know where a round ends.
+
+Unless a note says otherwise, work every stitch through both loops.
+
+
+----------------------------------------------------------------
+
+HOW IT COMES TOGETHER
+----------------------------------------------------------------
+
+The three techniques used throughout this pattern, in the order you meet them.
+
+1 - The magic ring
+
+Every piece begins with a magic ring. Pull the tail tight once the first round is
+complete.
+
+2 - Working in a spiral
+
+Keep a stitch marker in the first stitch of every round. There is no seam and no
+join to count from.
+
+3 - The two-layer leg join
+
+This is the only genuinely fiddly step in the pattern.
+
+Hold a finished leg against the body, with the pinched-flat top of the leg lying
+against the outside of the body. Insert your hook through both the leg and
+the body stitch, and work one single crochet. The leg edge and the body stitch
+are treated as a single stitch.
+
+Those stitches still count as one stitch each, so every stitch count in the body
+table stays correct.
+
+Pinching the leg top flat first is what makes this easy. A round, un-pinched leg
+top will not lie flat against the curved body, and the join will pucker.
+
+
+----------------------------------------------------------------
+
+PART 1 -- LEGS, EARS AND MUZZLE
+----------------------------------------------------------------
+
+Make these first. The legs are stuffed -- plump little balls that the body rests
+on.
+
+Leg
+
+Make 2 back legs (8 rounds) and 2 front legs (9 rounds).
+
+RND  INSTRUCTION           STS  WHICH LEGS
+---  --------------------  ---  ---------------------------------
+R1   6 sc in MR            (6)  all four
+R2   [1 sc, inc] x3        (9)  all four
+R3   sc in each st around  (9)  all four
+R4   sc in each st around  (9)  all four
+R5   sc in each st around  (9)  all four
+R6   sc in each st around  (9)  all four
+R7   sc in each st around  (9)  all four
+R8   sc in each st around  (9)  all four -- back legs finish here
+R9   sc in each st around  (9)  front legs only
+
+Finish. Stuff the lower half of each leg lightly, leaving the top loose.
+
+Then pinch the whole 9-stitch top flat into a narrow strip about 3 stitches
+wide. Press it between finger and thumb and hold it that way while you work the
+join. FO with a long tail for sewing.
+
+The back legs stop after Rnd 8 (about 34 mm). The front legs work Rnd 9 as well
+(about 39 mm). The front legs are the longer pair on purpose: they join the body
+one round higher up, so they need to be one round longer for all four feet to
+reach the table at the same height. Make all four legs the same length and Coco
+will rock back onto her haunches with her front feet in the air.
+
+    The leg top is 9 stitches around, so a flattened edge is naturally about 5
+    stitches across. Pinching it down to 3 is deliberate. The stitches you do not
+    join bunch up inside the join, and that bunch is what makes the leg look plump
+    rather than tubular. Do not try to keep the top flat and wide -- it will not sit
+    against the curved body.
+
+Ear -- make 2
+
+RND  INSTRUCTION           STS
+---  --------------------  ---
+R1   6 sc in MR            (6)
+R2   [1 sc, inc] x3        (9)
+R3   sc in each st around  (9)
+
+Finish. FO with a long tail. Do not stuff. Each finished ear is a shallow cup
+about 20 mm across and 13 mm tall.
+
+Muzzle -- make 1
+
+RND  INSTRUCTION           STS
+---  --------------------  ----
+R1   6 sc in MR            (6)
+R2   [1 sc, inc] x3        (9)
+R3   [2 sc, inc] x3        (12)
+R4   sc in each st around  (12)
+R5   sc in each st around  (12)
+
+Finish. FO with a long tail. Stuff lightly, just enough to hold a dome. The
+finished muzzle is about 17 mm across.
+
+
+----------------------------------------------------------------
+
+PART 2 -- BODY AND HEAD
+----------------------------------------------------------------
+
+Body and head are worked as one piece, bottom up. Both are 36 stitches around,
+with only a shallow waist between them -- that is what makes Coco read as one
+continuous round blob rather than a snowman.
+
+The legs are joined low, at Rnd 4 and Rnd 5, while the base is still curving
+outward.
+
+RND  INSTRUCTION                                 STS   NOTE
+---  ------------------------------------------  ----  --------------------------------------
+R1   6 sc in MR                                  (6)
+R2   inc in each st around                       (12)
+R3   [1 sc, inc] x6                              (18)
+R4   3 sc, [1 sc, inc] x3, 3 sc, [1 sc, inc] x3  (24)  join the BACK legs
+R5   [3 sc, inc] x6                              (30)  join the FRONT legs
+R6   [4 sc, inc] x6                              (36)  body at full width -- check gauge here
+R7   sc in each st around                        (36)
+R8   sc in each st around                        (36)
+R9   sc in each st around                        (36)  stuff the body FIRMLY
+R10  [7 sc, invdec] x4                           (32)  shallow waist
+R11  [7 sc, inc] x4                              (36)  head begins
+R12  sc in each st around                        (36)
+R13  sc in each st around                        (36)
+R14  sc in each st around                        (36)
+R15  sc in each st around                        (36)
+R16  [4 sc, invdec] x6                           (30)
+R17  [3 sc, invdec] x6                           (24)  stuff the head firmly
+R18  [2 sc, invdec] x6                           (18)
+R19  [1 sc, invdec] x6                           (12)  top up the stuffing
+R20  invdec x6                                   (6)
+
+Finish. Cinch the remaining 6 stitches closed and weave the tail inside the
+body.
+
+Joining the legs
+
+Work Rnd 4 and Rnd 5 as the plain increase rounds printed in the table above,
+but as you reach each leg position, hold a pinched-flat leg top against the body
+and work the next 3 sc through both the leg and the body together (technique 3).
+Those 3 sc still count as 3 stitches of the round, so the stitch counts do not
+change.
+
+Rnd 4 -- the back legs
+
+    Work the first 3 sc through a leg and the body together, then [1 sc,
+    inc] x3.
+    
+    Work the next 3 sc through the second leg and the body together, then
+    [1 sc, inc] x3 to the end of the round.
+    
+    Total 24 stitches.
+
+Rnd 5 -- the front legs
+
+    Work 7 sc.
+    
+    Join a leg over the next 3 sc.
+    
+    Work 10 sc.
+    
+    Join a leg over the next 3 sc.
+    
+    Work 7 sc to the end of the round.
+    
+    Total 30 stitches.
+
+The 7 - 10 - 7 spacing is what keeps Coco steady. It centers each front leg
+between the two back legs, so her four feet cover the deepest footprint this
+shape allows -- about 65 mm across and 29 mm from front to back.
+
+Work the numbers exactly as printed. If the front legs end up directly behind the
+back legs instead of between them, Coco's footprint narrows to about 9 mm from
+front to back and she will tip over forwards and backwards.
+
+Hold the piece upside down and check that all four legs sit square before you
+stuff the body.
+
+
+----------------------------------------------------------------
+
+PART 3 -- WHY THE LEGS JOIN SO LOW
+----------------------------------------------------------------
+
+The back legs are 8 rounds long, about 34 mm, and they join at Rnd 4 -- only
+17 mm above the base of the body. The front legs are 9 rounds long, about 39 mm,
+and they join at Rnd 5, 21 mm up.
+
+Different lengths, same result: every foot hangs 17 mm below the body, so all
+four land level and the underside of the body clears the table by about that
+much. Coco stands on her feet, not on her belly.
+
+This is the single most common failure on a round-bodied animal. Legs joined at
+the widest part of the body are always too high: the belly rests on the table and
+the feet dangle in the air.
+
+If Coco does not stand, check the join height before anything else.
+
+
+----------------------------------------------------------------
+
+PART 4 -- FACE AND ASSEMBLY
+----------------------------------------------------------------
+
+Muzzle
+
+Stuff the muzzle lightly and pin it to the front of the head over Rnd 12-14,
+centered on the face. Sew all the way around with matching brown.
+
+The muzzle should sit proud of the head, not flush with it.
+
+Centering matters. The muzzle is about 17 mm across and the eyes go 27 mm apart,
+which leaves only about 5 mm of clear face between the edge of the muzzle and
+each eye. A muzzle pinned even slightly off-center will crowd one eye.
+
+Eyes
+
+Embroider the eyes -- do not use safety eyes.
+
+With dark brown, work a shallow downward arc about 3 stitches wide on each side,
+at Rnd 14-15, 6 stitches apart, with a tiny tick angled down at each
+outer end.
+
+Six stitches keeps both eyes on the front of the face. Any wider and they wrap
+around the sides. Placing them at Rnd 14-15 keeps the whole eye above the muzzle,
+which is pinned over Rnd 12-14.
+
+This closed-eye curve is what makes Coco look asleep.
+
+Nose and mouth
+
+Embroider the nose and mouth after the muzzle is sewn on, so the stitches sit
+on the finished curve rather than on a flat piece.
+
+On the muzzle, work a small dark triangle at the top center, then a short vertical
+line down from it, and a soft curved mouth to one side.
+
+Ears
+
+Pinch the base of each ear so it cups forward, then sew at Rnd 15, about
+5 stitches apart, angled slightly outward.
+
+Rnd 15 is still a full 36-stitch round, so 5 stitches puts the ears on top of the
+head where a capybara's ears belong. Sewing them wider apart -- or onto Rnd 16,
+which has already decreased to 30 stitches -- pushes them out to the sides of the
+head, where they disappear from the front.
+
+Legs
+
+The legs were joined during Rnd 4 and Rnd 5. There is nothing to sew. Just check
+that the pinched 3-stitch strip of each leg is caught fully in the round.
+
+Final shaping
+
+Roll the finished piece gently between your palms to settle the stuffing into a
+round, bottom-heavy shape.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Coco looks too tall -- Almost always too many plain rounds. Rnd 12-15 is the
+straight section of the head, and the face is positioned on it. Adding "just one
+more" round each time turns the shape into a tower and moves the face off the
+round it was designed for.
+
+Coco will not stand -- Check the join height, not the leg spacing. The legs
+belong on Rnd 4 and Rnd 5. Joined any higher, they cannot clear the underside of
+the body.
+
+Coco tips forward or backward -- Two causes, in order of likelihood. First,
+the front legs are lined up behind the back legs instead of between them: the
+Rnd 5 spacing must be 7 sc, 10 sc, 7 sc. Second, Coco is deliberately narrow from
+front to back, at about 29 mm, and no leg spacing changes that. If she still
+tips, stuff the lower body more firmly and settle her weight back over all four
+feet.
+
+Coco rocks back onto her haunches, front feet in the air -- All four legs are
+the same length, and they cannot be. The front legs join at Rnd 5, 21 mm up, and
+the back legs at Rnd 4, 17 mm up, so equal-length legs leave the back feet about
+9 mm lower. Work the front legs 9 rounds and the back legs 8.
+
+Coco will not sit level -- Stuff the lower body firmly. A soft base lets Coco
+tip forward onto her muzzle.
+
+The head flops back -- The waist at Rnd 10 is deliberately shallow, at 32
+stitches. Do not decrease it further. A narrow neck cannot hold the head upright
+on this shape.
+
+The muzzle looks flat -- Stuff it just enough to hold a dome.
+
+Stuffing shows through -- Your gauge is too loose. Thirty-six stitches should
+measure 52 mm around a stuffed body. Crochet more tightly, or go down a hook
+size.
+
+There is a small hole where a leg meets the body -- You joined a flat, wide leg
+top instead of a pinched one. Flatten the whole 9-stitch top into a strip about 3
+stitches wide before joining, so the stitches you are not joining bunch up inside
+the join.
+
+
+----------------------------------------------------------------
+
+COLORWAYS
+----------------------------------------------------------------
+
+Classic warm brown, soft grey, sandy beige, and cocoa.
+
+
+----------------------------------------------------------------
+
+BEFORE YOU ASSEMBLE
+----------------------------------------------------------------
+
+Lay every component out and check it against the pattern before you sew anything:
+
+  - 4 legs -- 2 back legs of 8 rounds, 2 front legs of 9 rounds
+  - 2 ears
+  - 1 muzzle
+  - 1 body and head, closed at the crown
+
+
+----------------------------------------------------------------
+
+TERMS OF USE. This pattern is for personal use and small-batch finished
+sales. You may sell physical finished items made from this pattern provided credit
+is given to Novality Store. Selling, altering, copying or redistributing this
+digital PDF is strictly prohibited.
+
+(c) Novality Store - Creation Studio.
+
+================================================================
+PATTERN 5 - DESIGN CODE NS 05 - LITTLE DUCK PLUSHIE
+================================================================
+  (design code restored from the source file name; the
+   source file carried no design-code line)
+A round, squashy duckling worked in super-bulky chenille as a single piece from
+tail to crown, so there is no body-to-head seam. Only the wings and the beak
+are sewn on.
+
+
+----------------------------------------------------------------
+
+AT A GLANCE
+----------------------------------------------------------------
+
+Finished size  about 16 cm (6.25 in) tall, 7.5 cm (3 in) wide
+-------------  ----------------------------------------------
+Yarn           super-bulky chenille (#6)
+Hook           4.5 mm (US 7)
+Skill          confident beginner
+Time           1.5-2 hours
+Pieces to sew  2 wings + 1 beak
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+  - Body yarn: super-bulky chenille (#6), yellow -- about 25-35 g. A 100 g
+  ball makes two ducks comfortably, and three if your tension is on the tight
+  side.
+  - Details: a small amount of orange yarn for the beak; black yarn or
+  embroidery floss for the eyes.
+  - Hook: 4.5 mm (US 7)
+  - Fiberfill: about 25-35 g, packed firmly
+  - Other: yarn needle, stitch marker, pins
+
+
+----------------------------------------------------------------
+
+GAUGE AND FINISHED SIZE
+----------------------------------------------------------------
+
+Gauge. In super-bulky chenille (#6) on a 4.5 mm hook: about 8 mm per
+stitch and 7 mm per round.
+
+Chenille varies a great deal between brands. Measure a 12-stitch swatch -- about
+10 cm -- before you commit, because the finished height depends entirely on this.
+
+Finished size. About 16 cm / 6.25 in tall and 7.5 cm / 3 in wide at
+the gauge above. Those figures come straight from the round count: 23 rounds at
+7 mm, and a widest point of 30 stitches at 8 mm.
+
+Making a smaller duck
+
+The same pattern in a lighter yarn, on a 3.0 mm hook:
+
+Yarn                     Finished height
+-----------------------  ---------------
+Velvet / bulky (#5)      10-12 cm
+Aran / worsted (#4)      9-10 cm
+DK / light worsted (#3)  7.5-8.5 cm
+
+DK is often suggested for this, but it is fine enough that the duck lands at
+about 8 cm rather than 10-12 cm -- a perfectly good result, just not the size
+most people expect. Choose velvet if the 10-12 cm size is what you want.
+
+
+----------------------------------------------------------------
+
+SKILL LEVEL
+----------------------------------------------------------------
+
+Confident beginner.
+
+Techniques you will use
+
+  1. Magic ring -- the start of the body and each wing.
+  2. Working in a continuous spiral, with a stitch marker in the first stitch
+   of every round. There is no join to count from.
+  3. Invisible decreases -- see the note at the end of the pattern.
+  4. Working around both sides of a starting chain -- the beak. You work along
+   one side, round the end, and back along the other.
+  5. Working through both layers at once to close the flat edge of each wing.
+  6. Embroidery for the eyes.
+  7. Sewing on the wings and the beak.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS (US TERMS)
+----------------------------------------------------------------
+
+Abbreviation  Meaning
+------------  ----------------------------
+MR            magic ring
+ch            chain
+sc            single crochet
+inc           increase, 2 sc in one stitch
+dec           invisible decrease
+sl st         slip stitch
+FLO           front loops only
+FO            fasten off
+(n)           stitch count
+
+
+----------------------------------------------------------------
+
+1. BODY AND HEAD -- ONE PIECE
+----------------------------------------------------------------
+
+Worked from the tail end up. The waist at R10-R12 and the reflare at R13-R14 are
+what separate the body from the head without a seam.
+
+The body and the head are the same diameter -- 30 stitches each, about 76 mm.
+The 18-stitch waist between them is what reads as a neck.
+
+For a smaller head, skip the R14 reflare: work R14-R19 as sc in each st
+around at 24 stitches. The closing rounds are written for 30 stitches, so they
+must change too:
+
+Rnd  Instruction     Sts
+---  --------------  ----
+R20  [2 sc, dec] x6  (18)
+R21  [sc, dec] x6    (12)
+R22  dec x6          (6)
+
+The duck then closes three rounds earlier, so it is about 2 cm shorter, and the
+head reads as distinctly smaller than the body.
+
+Rnd  Instruction            Sts   Note
+---  ---------------------  ----  -----------------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)
+R5   [3 sc, inc] x6         (30)  body at full width
+R6   sc in each st around   (30)  wings attach at R6-R9
+R7   sc in each st around   (30)
+R8   sc in each st around   (30)
+R9   sc in each st around   (30)
+R10  [3 sc, dec] x6         (24)  start stuffing now
+R11  sc in each st around   (24)
+R12  [2 sc, dec] x6         (18)  the waist is closing
+R13  [2 sc, inc] x6         (24)
+R14  [3 sc, inc] x6         (30)  head begins
+R15  sc in each st around   (30)
+R16  sc in each st around   (30)  eyes between R16 and R17
+R17  sc in each st around   (30)
+R18  sc in each st around   (30)  beak across R16-R18
+R19  sc in each st around   (30)
+R20  [3 sc, dec] x6         (24)
+R21  [2 sc, dec] x6         (18)  stuff the head, shaping the cheeks evenly
+R22  [sc, dec] x6           (12)  add the final small pieces of stuffing
+R23  dec x6                 (6)
+
+Finish. FO leaving a long tail. Thread the tail through the FLO of each
+of the 6 remaining stitches, pull tight to close, knot and bury the end.
+
+    Start stuffing at R10, not R12. The waist narrows from 30 stitches to 18
+    across R10-R12. Once it is closed you can no longer reach the body, and packing
+    firm fiberfill through an 18-stitch neck is slow and lumpy. Fill the body
+    before the waist finishes closing.
+
+
+----------------------------------------------------------------
+
+2. WINGS -- MAKE 2
+----------------------------------------------------------------
+
+Rnd  Instruction            Sts
+---  ---------------------  ----
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   sc in each st around   (12)
+R4   sc in each st around   (12)
+
+Finish. Do not stuff. Flatten the piece and sc 6 sts across both layers to
+close the edge -- this takes the 12 stitches down to 6 and leaves a flat half-disc
+about 30 mm across. FO, leaving a long tail.
+
+Sew each wing to the side of the body spanning R6-R9, the widest part of the
+body below the waist, angled slightly back. R10-R12 is the waist and R13 upward
+is the head; wings placed there sit on the neck.
+
+
+----------------------------------------------------------------
+
+3. BEAK -- MAKE 1
+----------------------------------------------------------------
+
+Worked around both sides of a starting chain of 5. Each side works into four
+chains -- the three along the side plus the corner chain -- and between them all
+five chains are used, so nothing is left unworked.
+
+Ch 5.
+
+Rnd 1. Starting in the 2nd ch from hook: sc in next 3 ch, 3 sc in the last
+ch. Rotate to work along the underside of the chain: sc in next 3, 2 sc in the
+last loop. [11]
+
+Rnd 2. inc, 2 sc, inc, 2 sc, inc, 2 sc, inc, sc. [15]
+
+Sl st in the next st and FO, leaving a long tail.
+
+    How the chain is used. Side one takes 3 sc plus a 3-st corner into the
+    final chain, touching four chains. Side two takes 3 sc plus a 2-st corner into
+    the final loop, again touching four. The middle three chains are worked twice,
+    once from each side. Rnd 1 therefore totals 11 stitches. Rnd 2's four increases
+    and seven plain stitches consume all 11 and produce 15.
+
+Do not stuff the beak. Flatten it before pinning so it sits as a flat lens
+rather than a puffy tube.
+
+About the size. As written the beak finishes about 50 mm long, which is
+two-thirds of the head width -- a bold, cartoon beak that suits a duckling well.
+For a daintier duck, work Rnd 1 only and finish there: 11 stitches gives a
+beak about 37 mm long.
+
+
+----------------------------------------------------------------
+
+4. FACE
+----------------------------------------------------------------
+
+Embroider the black eyes between R16 and R17, about 7-8 stitches apart.
+At this gauge that is 56-64 mm on a 76 mm head, which leaves comfortable room at
+the edges.
+
+Pin the beak horizontally across R16-R18, centered between the eyes, and sew
+around the outer edge.
+
+
+----------------------------------------------------------------
+
+5. ASSEMBLY ORDER
+----------------------------------------------------------------
+
+  1. Stuff the body firmly from R10 as the waist begins to close -- it is much
+   harder to reach once the neck narrows.
+  2. Embroider the eyes before the head is fully closed, while you can still
+   reach inside to bury the ends.
+  3. Sew the beak across R16-R18, centered between the eyes.
+  4. Sew the wings to R6-R9, one on each side, angled slightly back.
+  5. Top up the stuffing through R22 and close.
+
+
+----------------------------------------------------------------
+
+SAFETY AND SELLING
+----------------------------------------------------------------
+
+This pattern uses embroidered eyes, which avoids the small-parts hazard that
+safety eyes create -- a real advantage if you sell these.
+
+If you sell finished ducks as toys:
+
+  - Toys for children in the EU must carry CE marking under EN 71; in the United
+  States they must meet the CPSIA lead and phthalate limits and ASTM F963.
+  Independent testing is the only way to know whether your toys meet those
+  standards.
+  - Check that seams hold under a firm pull, and that chenille pile does not shed
+  loose fibers -- both are common failure points with plush yarn.
+  - Include a hang tag or listing line with your materials, your name as maker,
+  and an age recommendation.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Problem                            Fix
+---------------------------------  ---------------------------------------------------------------------------------------------------------------------------------
+Duck is much taller than 16 cm     Your chenille is thicker than the stated gauge. Measure a 12-stitch swatch: at 10 mm per stitch this pattern finishes near 20 cm.
+Duck is much shorter               Finer yarn. See the smaller-duck table above -- DK on a 3.0 mm hook gives 7-8 cm, not 10-12 cm.
+Wings sit on the neck              They are too high. R6-R9 is the body; R10-R12 is the waist.
+Beak leaves a gap                  Each side must be worked into four chains. If you have a chain left over, one side was worked short.
+Beak puffs instead of lying flat   Do not stuff it, and flatten it before you pin.
+Stuffing shows                     Chenille hides stuffing well; if it shows, the hook is too large for the yarn.
+Head flops                         Pack the waist at R10-R12 firmly before the head reflares.
+Cannot reach the body to stuff it  You started too late. Begin at R10, while the waist is still 24 stitches wide.
+
+
+----------------------------------------------------------------
+
+INVISIBLE DECREASE
+----------------------------------------------------------------
+
+An invisible decrease gives a flatter join than a standard decrease, which shows
+at this scale.
+
+  1. Insert your hook under the front loop only of the next stitch.
+  2. Insert your hook under the front loop only of the stitch after that.
+   You now have three loops on the hook.
+  3. Yarn over and pull through the first two loops.
+  4. Yarn over and pull through both remaining loops.
+
+
+----------------------------------------------------------------
+
+CARE
+----------------------------------------------------------------
+
+Surface clean with a damp cloth and mild soap; do not machine wash -- chenille
+piles mat and shed in agitation. Dry flat, away from heat. Fluff the pile with a
+clean pet slicker brush once dry.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE
+----------------------------------------------------------------
+
+This pattern is for personal use and small-batch finished sales. You may sell
+physical finished items made from this pattern provided credit is given to
+Novality Store. Selling, altering, copying or redistributing this digital PDF is
+strictly prohibited.
+
+(c) Novality Store - Creation Studio.
+
+================================================================
+PATTERN 6 - DESIGN CODE NS 06 - MOMO THE LOAF CAT
+================================================================
+US crochet terms - Advanced beginner - No-sew body - 2-2.5 hours
+
+A cat folded into a perfect loaf. Worked in one piece on an oval base so the
+finished shape is genuinely wider than it is tall, with the ears crocheted
+straight onto the head and the tail worked off the body -- there are no separate
+pieces to sew on.
+
+
+----------------------------------------------------------------
+
+SAFETY -- READ THIS FIRST
+----------------------------------------------------------------
+
+Momo has two 8 mm safety eyes. Safety eyes are small parts. Lock the washers
+firmly from the inside and pull-test each one on the finished toy -- a properly
+locked washer will not come off by hand.
+
+Embroidering the eyes instead is safer, but it does not make Momo a tested
+toy. This pattern has not been tested to a toy-safety standard such as
+ASTM F963 or EN 71, so please do not describe finished Momos as "baby-safe" or
+"suitable from birth" in your listings. For a child under three, embroidered
+eyes are the right choice -- but say "embroidered, no small parts", not
+"baby-safe".
+
+The tail and ears are worked into the body fabric rather than sewn on, which is
+genuinely stronger than a sewn join. Still weave every end in for at least 5 cm
+and bury it, and knot the embroidery floss inside the body.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Main yarn -- Worsted #4, about 10 g. Grey, ginger, cream or black -- all
+four sell equally well. One 25 g ball makes two with yarn to spare.
+
+Contrast -- Small amounts of white for the chest and paws, pink for the nose
+and inner ears.
+
+Hook -- 3.5 mm (US E-4). Tight gauge so stuffing cannot show through.
+
+Eyes -- 2 x 8 mm safety eyes, or embroider in black.
+
+Also needed -- Polyfill about 10 g; tapestry needle; stitch marker; black
+embroidery floss.
+
+
+----------------------------------------------------------------
+
+GAUGE & FINISHED SIZE
+----------------------------------------------------------------
+
+Gauge -- Worsted #4 on a 3.5 mm hook: about 4.5 mm per stitch and 4.3 mm per
+round.
+
+Finished size -- About 7.9 cm (3.1 in) long, 5.2 cm (2 in) wide and 4.3 cm
+(1.7 in) tall -- a low, wide loaf, not a ball. Width to height is about 1.2 : 1,
+which is what reads as a loaf.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR magic ring - ch chain - sc single crochet - inc 2 sc in one
+stitch - dec invisible decrease - sl st slip stitch - BLO back loop
+only - FO fasten off - (n) stitch count
+
+Work in a continuous spiral -- do not join between rounds. Mark the first stitch
+of every round.
+
+
+----------------------------------------------------------------
+
+CORE TECHNIQUES
+----------------------------------------------------------------
+
+These are the techniques Momo uses, in the order you will meet them.
+
+1 - WORKING AROUND A CHAIN (the oval base). This is the one that makes the
+loaf. You crochet into both sides of a starting chain: work across the front
+of the chain, put the corner increases into the last chain, then continue back
+along the opposite side and finish into the last remaining loop. That turns a
+chain into a flat oval instead of a strip. Do not substitute a magic-ring circle
+here -- a round base gives you a sphere every time.
+
+2 - THE MAGIC RING. Used for the tail's first round. Wrap the yarn once
+around two fingers, insert the hook, pull up a loop, work the round into the
+ring, then pull the tail tight.
+
+3 - WORK IN A SPIRAL. Do not join and do not ch 1 between rounds. Keep a
+stitch marker in the first stitch of every round and move it up each time --
+there is no join to count from.
+
+4 - BACK LOOP ONLY (BLO). Work into the far loop of the stitch only. The
+unused loops form a raised ridge -- that ridge is the visible edge where the base
+meets the walls, and it is what makes the loaf read as folded rather than
+moulded.
+
+5 - THE INVISIBLE DECREASE. Insert the hook through the front loops only
+of the next two stitches, yarn over and pull through both, then yarn over and
+pull through the remaining two loops. Every dec here is worked this way.
+
+6 - FLAT ROWS (ch 1, turn). The ears are not worked in the round. Chain 1,
+turn, and work back along the row you just made. Each row is shorter than the
+one before, which is what forms the ear point.
+
+7 - WORKING INTO BODY FABRIC. The tail starts by pushing the hook through
+the finished body wall rather than into a stitch of the current round. Go under
+a whole stitch, not just one loop, or it will pull out.
+
+
+----------------------------------------------------------------
+
+1. BODY -- ONE PIECE, WORKED ON AN OVAL BASE
+----------------------------------------------------------------
+
+The oval base is what makes this a loaf rather than a ball, and the size of
+the base sets the size of the whole cat. The base is worked up to 48 stitches
+before the walls begin; stopping at 36 gives a body about 34 mm across, which
+comes out taller than it is wide and reads as a ball no matter how you stuff it.
+
+RND         INSTRUCTION                                                                             STS         NOTE
+----------  --------------------------------------------------------------------------------------  ----------  -------------------------------------
+Foundation  ch 9                                                                                    chain only
+Rnd 1       sc in 2nd ch from hook, sc in next 6, 3 sc in last ch, sc in next 6, 2 sc in last loop  (18)        worked around both sides of the chain
+Rnd 2       inc, 6 sc, inc x3, 6 sc, inc x2                                                         (24)
+Rnd 3       sc, inc, 6 sc, [sc, inc] x3, 6 sc, [sc, inc] x2                                         (30)
+Rnd 4       2 sc, inc, 6 sc, [2 sc, inc] x3, 6 sc, [2 sc, inc] x2                                   (36)
+Rnd 5       3 sc, inc, 6 sc, [3 sc, inc] x3, 6 sc, [3 sc, inc] x2                                   (42)
+Rnd 6       4 sc, inc, 6 sc, [4 sc, inc] x3, 6 sc, [4 sc, inc] x2                                   (48)        base at full size
+Rnd 7       BLO sc around                                                                           (48)        ridge = the base edge
+Rnd 8       sc in each st around                                                                    (48)        eyes at Rnd 8-9
+Rnd 9       sc in each st around                                                                    (48)        stuff firmly from here
+Rnd 10      [6 sc, dec] x6                                                                          (42)
+Rnd 11      [5 sc, dec] x6                                                                          (36)
+Rnd 12      [4 sc, dec] x6                                                                          (30)        ears worked onto Rnd 12
+Rnd 13      [3 sc, dec] x6                                                                          (24)
+Rnd 14      [2 sc, dec] x6                                                                          (18)
+Rnd 15      [sc, dec] x6                                                                            (12)        top up the stuffing
+Rnd 16      dec x6                                                                                  (6)
+
+Finish. Thread the tail through the front loop of each remaining stitch,
+pull tight, knot and bury the end.
+
+Shape check. The base is an oval about 79 mm long and 52 mm across; the
+walls add ten rounds of height, so the finished loaf is about 43 mm tall --
+wider than it is tall, which is the whole point. If yours is coming out round,
+either you stopped increasing at Rnd 4 instead of Rnd 6, or you worked extra
+plain rounds at Rnds 8-9.
+
+
+----------------------------------------------------------------
+
+2. EARS -- CROCHETED DIRECTLY ONTO THE HEAD, MAKE 2
+----------------------------------------------------------------
+
+No separate pieces. Join the main yarn to the head at Rnd 12, leaving about
+6 stitches between the two ears, and work each ear as three short rows.
+
+RND    INSTRUCTION   STS  NOTE
+-----  ------------  ---  ----------
+Row 1  sc in next 5  (5)  ch 1, turn
+Row 2  dec, sc, dec  (3)  ch 1, turn
+Row 3  dec, sc       (2)  ear tip
+
+Finish. FO, leaving a short tail. Pull the tail through the 2 tip stitches
+to close the point, then bury it inside the head.
+
+Each row consumes exactly what the row before produced: 5 stitches into Row 2
+(2 + 1 + 2), then 3 stitches into Row 3 (2 + 1).
+
+Embroider a small pink triangle on the front of each ear if you want lined ears.
+
+
+----------------------------------------------------------------
+
+3. TAIL -- WORKED OFF THE BODY
+----------------------------------------------------------------
+
+Join the main yarn to the back of the body at about Rnd 9, on the center
+line.
+
+RND    INSTRUCTION           STS  NOTE
+-----  --------------------  ---  ---------------------------
+Rnd 1  4 sc in MR            (4)  worked into the body fabric
+Rnd 2  sc in each st around  (4)
+Rnd 3  sc in each st around  (4)
+Rnd 4  sc in each st around  (4)
+Rnd 5  sc in each st around  (4)
+Rnd 6  sc in each st around  (4)
+Rnd 7  sc in each st around  (4)
+Rnd 8  sc in each st around  (4)
+
+Finish. FO. Do not stuff -- a thin tail curls around the loaf far better than
+a stuffed one.
+
+To start the tail on the body: insert the hook under a stitch, pull up a loop,
+and work the first 4 sc into the body fabric in a tight square. From Rnd 2 you
+are working in a normal spiral off those 4 stitches.
+
+
+----------------------------------------------------------------
+
+4. FACE
+----------------------------------------------------------------
+
+Eyes. Fix the 8 mm safety eyes between Rnds 8 and 9, about 7 stitches apart,
+low and wide on the front of the loaf. Seven stitches is about 32 mm, roughly
+60% of the body width. A loaf cat's eyes sit low -- high eyes make it read as a
+bear.
+
+Nose. Embroider a small pink triangle centered between and just below the
+eyes, then two short stitches angled down from the point to make the mouth.
+
+Whisker dots. Three tiny black French knots on each side of the nose.
+
+Chest and paws. With white yarn, embroider a soft oval on the chest and two
+small ovals at the front of the base for tucked paws. This is what turns a plain
+loaf into a cat.
+
+
+----------------------------------------------------------------
+
+5. COLORWAYS THAT SELL
+----------------------------------------------------------------
+
+Grey tabby, orange ginger, cream, black, and calico (grey base with ginger and
+cream patches embroidered on afterwards). Listing all five as photographs in one
+listing consistently outperforms listing them separately, because buyers are
+choosing a cat, not a pattern.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+It came out round. You stopped increasing at Rnd 4 instead of Rnd 6, worked
+too many plain rounds at Rnds 8-9, or used a magic-ring base instead of the
+oval. The base must reach 48 stitches.
+
+It came out tall and narrow. The base did not reach 48 stitches. Count the
+stitches at Rnd 6 before you start the BLO round -- that one number decides the
+whole shape.
+
+Ears lean backwards. Join the yarn one round lower and angle the first row
+slightly forward.
+
+Tail falls off. The first 4 sc must go through the body fabric, not just
+under one loop.
+
+Stuffing shows. Go down to a 3.0 mm hook. Loose gauge on 3.5 mm is the usual
+cause.
+
+Face looks like a bear. The eyes are too high and too close. Drop them a
+round and widen to 7 stitches.
+
+
+----------------------------------------------------------------
+
+THE FINISHED PROJECT
+----------------------------------------------------------------
+
+Momo sitting in a proper loaf -- long, low and wide.
+
+Before you finish. This is a no-sew pattern, so there is nothing to lay out
+and assemble. Instead, check three things before you close the top: the base
+reached 48 stitches at Rnd 6, the BLO ridge runs all the way around in one
+unbroken line, and the ears are level with each other and about 6 stitches
+apart.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE
+----------------------------------------------------------------
+
+This pattern is for personal use and small-batch finished sales. You may sell
+physical finished items made from this pattern provided credit is given to
+Novality Store. Selling, altering, copying or redistributing this digital PDF is
+strictly prohibited.
+
+(c) Novality Store - Creation Studio
+
+================================================================
+PATTERN 7 - DESIGN CODE NS 07 - POCKET POSITIVITY TRIO
+================================================================
+  (design code restored from the source file name; the
+   source file carried no design-code line)
+Sunny the Sunflower - Waddle the Penguin - Spud the Potato
+
+Three palm-sized amigurumi designed to slip into a coat pocket. They work up
+fast -- an evening or two for all three -- and make excellent small gift add-ons,
+party favours, or a gentle first project.
+
+The trio shares one body: a six-stitch sphere for Waddle, a six-stitch
+cushion for Sunny, and a flat oval for Spud. Once you have worked the
+first toy, the other two will feel familiar.
+
+
+----------------------------------------------------------------
+
+AT A GLANCE
+----------------------------------------------------------------
+
+               Sunny                                    Waddle                      Spud
+-------------  ---------------------------------------  --------------------------  --------------------------
+Shape          Flat six-petal flower                    Pear-shaped penguin         Rounded potato
+Finished size  about 3.0 cm (1.2 in) across the petals  about 3.8 cm (1.5 in) tall  about 2.7 cm (1.1 in) long
+Yarn weight    #4 worsted                               #4 worsted                  #4 worsted
+Hook           3.5 mm (US E/4)                          3.5 mm (US E/4)             3.5 mm (US E/4)
+Time per toy   20-30 minutes                            20-30 minutes               25-35 minutes
+
+Sunny and Waddle have no separate pieces to sew. Spud is worked flat, then the
+seam is closed in one stitch. All three are worked in continuous spiral rounds
+with a stitch marker, so there is no slip stitch at the end of each round.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+  - Yarn: worsted weight / #4 (about 250 m per 100 g). The three toys use
+  roughly 8 m of yarn in total -- under 4 g -- so almost any scrap will do.
+    - Sunny -- golden yellow for the petals, chocolate brown for the center
+    - Waddle -- black, plus cream for the chest patch and yellow for the beak
+    - Spud -- warm tan
+  - Hook: 3.5 mm (US E/4)
+  - Eyes: 5 mm black safety eyes x6 (or embroidery thread -- see *Safety and
+  selling*, below)
+  - Fiberfill: about 3 g in total for all three, or enough to fill each body
+  firmly without lumps
+  - Blunt tapestry needle, stitch marker, scissors
+
+
+----------------------------------------------------------------
+
+GAUGE
+----------------------------------------------------------------
+
+Approximately 3.5 mm per stitch and 3.2 mm per round in single crochet
+worked in the round with the stated yarn and hook. Amigurumi is normally worked
+a half-size tighter than the yarn calls for.
+
+This is a pocket-size set, so gauge matters: a single half-size difference
+changes the finished size noticeably. Work a gauge swatch before you start.
+The sizes in the table above are calculated from this gauge.
+
+
+----------------------------------------------------------------
+
+SKILL LEVEL
+----------------------------------------------------------------
+
+Easy / beginner-friendly.
+
+Techniques you will use
+
+  1. Magic ring -- the starting loop for Sunny's center and Waddle's body.
+  2. Working in a continuous spiral with a stitch marker, rather than joining
+   each round.
+  3. Invisible decreases (see the note at the end of the pattern).
+  4. Clusters worked into one stitch -- Sunny's petals. Three stitches are
+   worked into a single stitch of the round below, which makes them stand out
+   from the center.
+  5. Slip stitch edging between the petals, which flattens the joins.
+  6. Oval base worked around a chain -- Spud's potato. You work along one side
+   of a foundation chain, around the end, back along the other side, and round
+   the other end, increasing at both ends.
+  7. Sewing and embroidery for Waddle's wings, chest and beak, and Sunny's
+   center and face.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS (US TERMS)
+----------------------------------------------------------------
+
+Abbreviation  Meaning
+------------  -------------------------------------
+MR            magic ring
+sc            single crochet
+hdc           half double crochet
+inc           increase (2 sc in one stitch)
+dec           invisible decrease
+sl st         slip stitch
+ch            chain
+st(s)         stitch(es)
+[...] x N     repeat the bracketed sequence N times
+
+
+----------------------------------------------------------------
+
+================================================================
+SUNNY THE SUNFLOWER
+================================================================
+
+A cheerful little face that works up in about twenty minutes. The brown center
+is a small cushion, and nine petals are worked directly into it.
+
+BODY -- BROWN CENTER (MAKE 1)
+----------------------------------------------------------------
+
+Round  Instructions                                      Stitches
+-----  ------------------------------------------------  --------
+Rnd 1  6 sc in MR                                        (6)
+Rnd 2  inc in each st around                             (12)
+Rnd 3  [sc, inc] x6                                      (18)
+Rnd 4  sc in each st around                              (18)
+Rnd 5  [sc, dec] x6                                      (12)
+Rnd 6  dec x6 -- stuff the center firmly before closing  (6)
+
+Fasten off. Weave the tail through the front loops of the remaining 6 stitches,
+pull tight to close, and weave in the end on the inside.
+
+PETALS -- YELLOW (MAKE 1)
+----------------------------------------------------------------
+
+Join yellow with a slip stitch into any stitch of Rnd 3 of the center.
+
+Round      Instructions                                     Stitches
+---------  -----------------------------------------------  --------
+Petal rnd  [sl st in next st, (sc, hdc, sc) in next st] x9  (36)
+
+Fasten off and weave in the end.
+
+This repeat uses 2 stitches per petal -- a slip stitch, then three stitches into
+the next one -- so nine petals close the round exactly. The slip stitch sits
+in the valley between petals and makes them fan outward. Work this round
+loosely, especially the three stitches in one stitch; if it pulls tight, step up
+to a 4 mm hook for this round only and return to 3.5 mm afterwards.
+
+FACE -- SUNNY
+----------------------------------------------------------------
+
+Embroider a smiling mouth with black embroidery thread between Rnd 2 and Rnd 3
+of the center. Add 5 mm safety eyes (or embroider them) 3 stitches apart on
+Rnd 2, centerd over the mouth.
+
+    Eye spacing. At 3.5 mm per stitch, three stitches is about 10.5 mm between
+    the eyes. Four stitches is about 14 mm, which on this 20 mm face leaves the
+    5 mm eyes almost touching the rim of the cushion. Use four stitches only if
+    you are embroidering the eyes rather than inserting safety eyes.
+
+
+----------------------------------------------------------------
+
+================================================================
+WADDLE THE PENGUIN
+================================================================
+
+A pear-shaped body, a cream chest patch, two small wings and a beak. Only the
+wings are sewn on.
+
+BODY -- BLACK (MAKE 1)
+----------------------------------------------------------------
+
+Round    Instructions                      Stitches
+-------  --------------------------------  --------
+Rnd 1    6 sc in MR                        (6)
+Rnd 2    inc in each st around             (12)
+Rnd 3    [sc, inc] x6                      (18)
+Rnd 4-6  sc in each st around, 3 rnd       (18)
+Rnd 7    [2 sc, inc] x6                    (24)
+Rnd 8-9  sc in each st around, 2 rnd       (24)
+Rnd 10   [2 sc, dec] x6                    (18)
+Rnd 11   [sc, dec] x6                      (12)
+Rnd 12   dec x6 -- stuff firmly as you go  (6)
+
+Fasten off. Weave the tail through the remaining 6 stitches and pull tight to
+close. Weave in the end.
+
+WINGS -- BLACK (MAKE 2)
+----------------------------------------------------------------
+
+Round    Instructions                 Stitches
+-------  ---------------------------  --------
+Rnd 1    4 sc in MR                   (4)
+Rnd 2    [sc, inc] x2                 (6)
+Rnd 3-4  sc in each st around, 2 rnd  (6)
+
+Fasten off, leaving a 15 cm tail for sewing. Do not stuff.
+
+CHEST PATCH -- CREAM (MAKE 1)
+----------------------------------------------------------------
+
+Work this small oval, which is sewn flat onto the front of the body:
+
+Round  Instructions                                                                                                        Stitches
+-----  ------------------------------------------------------------------------------------------------------------------  --------
+Rnd 1  ch 6, sc in 2nd ch from hook, 3 sc, 3 sc in last ch; working on the other side of the chain: 3 sc, 2 sc in last ch  (12)
+Rnd 2  inc, 3 sc, inc x3, 3 sc, inc x2                                                                                     (18)
+
+Fasten off, leaving a 15 cm tail.
+
+    Check the round: a chain of 6 closes at 12 stitches -- two stitches for
+    every chain, because the turning chain and the last chain each take a cluster.
+    Rnd 2 uses 1 + 3 + 3 + 3 + 2 = 12 stitches and produces 18.
+
+BEAK -- YELLOW (MAKE 1)
+----------------------------------------------------------------
+
+Round  Instructions                    Stitches
+-----  ------------------------------  --------
+Rnd 1  ch 2, 3 sc in 2nd ch from hook  (3)
+Rnd 2  inc x3                          (6)
+Rnd 3  sc in each st around            (6)
+
+Fasten off, leaving a 15 cm tail. The beak is tiny -- work it with the tail end of
+the yarn only, and do not stuff it.
+
+FACE AND ASSEMBLY
+----------------------------------------------------------------
+
+  1. Add 5 mm safety eyes 3 stitches apart on Rnd 3, between Rnd 2 and Rnd 3.
+   (As with Sunny, four stitches leaves the eyes almost at the edge of an
+   18-stitch face.)
+  2. Sew the beak centerd directly between the eyes, angled slightly downward.
+  3. Sew the cream chest patch onto the front of the body, covering Rnds 4-8.
+   Stitch along the top and bottom edges only so the middle can puff slightly.
+  4. Sew the two wings onto the sides at Rnd 6, angled backward as though the
+   penguin were mid-waddle. Pin them first and check the angle before sewing.
+  5. Add a tiny blush of pink chalk or pastel on the cheeks with a cotton swab.
+   Use it sparingly.
+
+
+----------------------------------------------------------------
+
+================================================================
+SPUD THE POTATO
+================================================================
+
+A flat, slightly lumpy oval -- the shape comes from the seam, not the stitching.
+No stuffing is needed until the closing step.
+
+BODY -- WARM TAN (MAKE 1)
+----------------------------------------------------------------
+
+Foundation: ch 7.
+
+Round    Instructions                                                                                                                        Stitches
+-------  ----------------------------------------------------------------------------------------------------------------------------------  --------
+Rnd 1    sc in 2nd ch from hook, 4 sc, 3 sc in last ch; working on the other side of the chain: 4 sc, 2 sc in last ch; place marker to join  (14)
+Rnd 2    inc, 4 sc, inc x3, 4 sc, inc x2                                                                                                     (20)
+Rnd 3-6  sc in each st around, 4 rnd                                                                                                         (20)
+Rnd 7    [3 sc, dec] x4                                                                                                                      (16)
+Rnd 8    [2 sc, dec] x4                                                                                                                      (12)
+Rnd 9    [sc, dec] x4                                                                                                                        (8)
+Rnd 10   dec x4 -- begin stuffing at Rnd 9                                                                                                   (4)
+
+Fasten off, leaving a 20 cm tail.
+
+Closing the seam: with the body flat, use the tail to whip stitch the
+remaining opening closed. Sew along the flat top so the seam reads as the
+potato's natural crease. Weave in the end on the inside.
+
+FACE -- SPUD
+----------------------------------------------------------------
+
+Add 5 mm safety eyes (or embroider them) about 5 stitches apart on the broad
+side, around Rnd 4. Spud's face is the widest of the three at about 27 mm, so
+four or five stitches both sit comfortably inside the edge -- choose to taste.
+Embroider a small open mouth below and between the eyes.
+
+
+----------------------------------------------------------------
+
+MAKING A BIGGER TRIO
+----------------------------------------------------------------
+
+The three finished sizes above are worked in the round with #4 worsted on a
+3.5 mm hook. If you want the toys noticeably larger, switch to a 3.5 mm hook
+with chunky or aran weight yarn, or work #4 worsted held double:
+
+  - at about 4.5 mm per stitch everything scales up by roughly 1.3x
+  - Sunny about 3.9 cm across the petals
+  - Waddle about 4.9 cm tall
+  - Spud about 3.5 cm long
+
+No stitch counts change -- the same rounds give the same shapes at the new size.
+Make a gauge swatch first, because yarns vary.
+
+
+----------------------------------------------------------------
+
+SAFETY AND SELLING
+----------------------------------------------------------------
+
+This set is not intended for children under 3. Safety eyes are small parts
+that can be pulled off and swallowed. Even with safety washers fitted, a
+determined child can work an eye loose.
+
+If you are making these for young children, embroider the eyes and mouths with
+yarn instead of using safety eyes. Embroidered eyes look just as good at this
+scale and remove the hazard entirely.
+
+A note for sellers:
+
+  - Do not market these as "baby-safe." The term has no legal definition in
+  toy safety, and using it as a listing filter invites a claim you cannot
+  support. Toys sold to children in the EU must carry CE marking under EN 71,
+  and in the United States must meet the CPSIA lead and phthalate limits and
+  ASTM F963. Independent testing is the only way to know whether your toys
+  meet those standards.
+  - Sell them instead as adult collectibles, desk companions, or keychain
+  charms -- the pocket-size format suits that framing well.
+  - Include a hang tag or listing line with your materials, your name as maker,
+  and "Not suitable for children under 3 years."
+  - Stuff firmly and evenly. Lumpy or under-stuffed toys read as cheap and lose
+  their shape within weeks.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Problem                                                Fix
+-----------------------------------------------------  ------------------------------------------------------------------------------------------------------------------------------------------------------------
+Petal edges curl                                       Use invisible decreases on Rnd 5 of Sunny's center and pull the closing round snugly.
+Petal round will not close                             Nine repeats of the petal sequence use exactly 18 stitches -- two per repeat. Make sure you worked Rnd 3 to (18) and that you slip-stitched once per repeat.
+The toys come out smaller than the sizes in the table  Your tension is tighter than 3.5 mm per stitch. Work up half a hook size at a time, or hold #4 worsted double -- see Making a Bigger Trio.
+The toys come out larger than the sizes in the table   Your tension is looser than 3.5 mm per stitch. Drop to a 3 mm hook.
+Sunny's petals sit flat instead of standing out        Work the three stitches in one stitch loosely, or step up to a 4 mm hook for the petal round only.
+Waddle's wings flop                                    Sew them at Rnd 6 and catch a stitch of the body with each pass.
+Spud's seam shows                                      Whip stitch along the flat top so the seam reads as a crease, and stuff evenly before closing.
+Eyes sit too close to the edge                         On Sunny and Waddle use three stitches apart, not four.
+
+
+----------------------------------------------------------------
+
+INVISIBLE DECREASE
+----------------------------------------------------------------
+
+An invisible decrease (inv dec) produces a flatter join than a standard
+decrease, which matters at this scale.
+
+  1. Insert your hook under the front loop only of the next stitch.
+  2. Insert your hook under the front loop only of the stitch after that.
+   You should have three loops on the hook.
+  3. Yarn over and pull through the first two loops.
+  4. Yarn over and pull through both remaining loops.
+
+
+----------------------------------------------------------------
+
+CARE
+----------------------------------------------------------------
+
+Spot clean with a damp cloth and mild soap; do not machine wash. Keep away from
+heat. Surface-fluff any pulled loops with a clean pet slicker brush or a toothbrush.
+
+
+----------------------------------------------------------------
+
+*Pocket Positivity Trio -- US crochet terms. Three palm-sized amigurumi: Sunny the
+Sunflower, Waddle the Penguin, and Spud the Potato.*
+
+================================================================
+PATTERN 8 - DESIGN CODE NS 08 - EMBER THE BABY DRAGON
+================================================================
+US crochet terms - Intermediate - 4-5 hours
+
+A chunky, big-headed baby dragon with a stubby snout, scalloped wings and a ridge
+of spikes down the back. Fantasy amigurumi carries the highest price point of any
+category in this set, and the detail is what justifies it.
+
+Ember sits -- she is not a standing animal. Her body rests on the table, her
+back legs fold under her as haunches and her front legs splay forward.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Main yarn -- Worsted #4, about 50 g. Sage green, dusty teal, lilac or charcoal.
+
+Belly and wings -- Worsted #4, about 20 g in a contrast cream or pale gold.
+
+Spikes -- Worsted #4, about 10 g in the contrast color.
+
+Hook -- 3.5 mm (US E/4).
+
+Eyes -- 2 x 10 mm safety eyes. Slit-pupil dragon eyes if you can get them.
+
+Also needed -- Polyester fiber fill, about 10 g; tapestry needle; stitch
+markers; pins.
+
+The yarn figures are working amounts, not measured consumption. Ember herself uses
+well under 10 g of the main color; the rest allows for tails, sewing, swatching and
+a second attempt.
+
+    Safety. Ember uses 10 mm safety eyes, which are a small part and a choking
+    hazard. She is a decorative piece, not a toy for young children, and she has not
+    been tested to a toy-safety standard such as ASTM F963 or EN 71. If you want to
+    give her to a child, embroider the eyes instead and check every seam first.
+
+
+----------------------------------------------------------------
+
+GAUGE
+----------------------------------------------------------------
+
+Worsted #4 on a 3.5 mm hook: about 4.5 mm per stitch and 4.3 mm per round.
+
+Check it on the body after Rnd 5 -- 30 stitches should measure about 43 mm around.
+Every measurement in this pattern follows from that gauge. If your stitches are
+wider than 4.5 mm, crochet more tightly or drop to a 3.0 mm hook, or the stuffing
+will show through.
+
+
+----------------------------------------------------------------
+
+FINISHED SIZE
+----------------------------------------------------------------
+
+About 11 cm (4.3 in) tall seated, with a 12.5 cm (5 in) wingspan and a
+5 cm (2 in) tail.
+
+Body, Rnd 1 to Rnd 13  13 rnd x 4.3 mm = 56 mm
+---------------------  -------------------------------------
+Head, Rnd 1 to Rnd 11  11 rnd x 4.3 mm = 47 mm
+Seated height          about 103 mm ~ 11 cm
+Wing, straight edge    10 sts x 4.5 mm = 45 mm
+Wingspan               45 + 34 + 45 = about 124 mm ~ 12.5 cm
+Tail                   12 rnd x 4.3 mm = 52 mm ~ 5 cm
+
+If you want a larger dragon, the body and the head both need about 18 rounds each
+rather than 13 and 11 -- that is what takes the seated height to roughly 16 cm.
+Everything else in this pattern scales with them.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR     magic ring
+-----  -----------------------------------------
+ch     chain
+sc     single crochet
+hdc    half double crochet
+dc     double crochet
+inc    increase -- 2 sc in one stitch
+dec    invisible decrease
+sl st  slip stitch
+FO     fasten off
+(n)    the stitch count at the end of that round
+
+
+----------------------------------------------------------------
+
+WORKING NOTES
+----------------------------------------------------------------
+
+Work in a continuous spiral unless a row says to turn. Mark the first stitch of
+every round -- in a spiral there is no join to count from.
+
+The wings and the spike strip are the exceptions: both are worked flat, in turned
+rows.
+
+Unless a note says otherwise, work every stitch through both loops.
+
+
+----------------------------------------------------------------
+
+HOW IT COMES TOGETHER
+----------------------------------------------------------------
+
+The core techniques, in the order you meet them.
+
+1 - The magic ring. Every piece begins with a magic ring. Pull the tail tight
+once the first round is complete.
+
+2 - Work in a spiral. Keep a stitch marker in the first stitch of every round.
+
+3 - Matched open joins. Ember's head and her neck are both left open at
+18 stitches, so the two edges are the same size and can be ladder-stitched
+together cleanly. This is the single most important structural detail in the
+pattern -- the head is heavy, and this joint carries all of it.
+
+
+----------------------------------------------------------------
+
+1 - HEAD -- MAIN COLOR, MAKE 1
+----------------------------------------------------------------
+
+A big head is what makes a dragon read as a baby dragon. Two straight rounds
+only, then the decreases.
+
+The head is worked top-down and is left open. Do not close it.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  ------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)
+R5   [3 sc, inc] x6         (30)
+R6   [4 sc, inc] x6         (36)  head at full width
+R7   sc in each st around   (36)  eyes go on R7-R8
+R8   sc in each st around   (36)
+R9   [4 sc, dec] x6         (30)
+R10  [3 sc, dec] x6         (24)  stuff firmly
+R11  [2 sc, dec] x6         (18)  leave open -- matches the neck
+
+Finish. Stuff the head firmly. Do not fasten off and do not close it. The
+open 18-stitch edge is sewn to the body's neck. Leave a long tail if you prefer to
+sew rather than join as you go.
+
+    This is where the original shape of the pattern was weakest. Closing the head
+    down to 6 stitches leaves a gathered point about 9 mm across, and sewing that to
+    a 26 mm neck ring is a small seam carrying a heavy head -- which is exactly why a
+    dragon's head flops. Stopping at 18 stitches gives the two pieces edges that
+    match, and the join becomes strong.
+
+
+----------------------------------------------------------------
+
+2 - SNOUT -- MAIN COLOR, MAKE 1
+----------------------------------------------------------------
+
+Sewn to the front of the head. A dragon without a projecting snout reads as a bear.
+
+RND  INSTRUCTION           STS
+---  --------------------  ----
+R1   6 sc in MR            (6)
+R2   [sc, inc] x3          (9)
+R3   [2 sc, inc] x3        (12)
+R4   sc in each st around  (12)
+R5   sc in each st around  (12)
+
+Finish. FO with a long tail. Stuff lightly.
+
+Pin the snout centered on Rnds 8-11 of the head, just below the eye line, and
+sew all the way around. It must project past the curve of the head, not sit flush
+with it. Embroider two small nostrils at the tip once it is attached.
+
+
+----------------------------------------------------------------
+
+3 - BODY -- MAIN COLOR, MAKE 1
+----------------------------------------------------------------
+
+Worked bottom-up. The neck is left open so the head can be seated on it.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  --------------------------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)  tail attaches at R4-R6
+R5   [3 sc, inc] x6         (30)  body at full width -- check gauge here
+R6   sc in each st around   (30)  back legs attach at R6
+R7   sc in each st around   (30)
+R8   sc in each st around   (30)  front legs attach at R8
+R9   sc in each st around   (30)
+R10  [3 sc, dec] x6         (24)  wings attach at R10-R11
+R11  sc in each st around   (24)
+R12  [2 sc, dec] x6         (18)  stuff firmly
+R13  sc in each st around   (18)  leave the neck OPEN
+
+Finish. FO with a 40 cm tail. Do not close. Pack the neck firmly before you
+join the head -- a soft neck is what lets the head flop forward.
+
+
+----------------------------------------------------------------
+
+4 - LEGS -- MAIN COLOR
+----------------------------------------------------------------
+
+Make 2 back legs (6 rounds) and 2 front legs (8 rounds).
+
+RND  INSTRUCTION           STS  WHICH LEGS
+---  --------------------  ---  ---------------------------------
+R1   6 sc in MR            (6)  all four
+R2   [sc, inc] x3          (9)  all four
+R3   sc in each st around  (9)  all four
+R4   sc in each st around  (9)  all four
+R5   sc in each st around  (9)  all four
+R6   sc in each st around  (9)  all four -- back legs finish here
+R7   sc in each st around  (9)  front legs only
+R8   sc in each st around  (9)  front legs only
+
+Finish. Stuff the lower half of each leg lightly. Flatten the top 3 stitches.
+FO with a long tail.
+
+The two pairs are not the same length, and that is deliberate. The back legs
+attach at Rnd 6, which is 26 mm above the body's base; the front legs attach at
+Rnd 8, 34 mm up. A leg attached higher has to be longer for its foot to reach the
+same level:
+
+       rounds  length  attaches  foot reaches
+-----  ------  ------  --------  ------------
+back   6       26 mm   26 mm up  the table
+front  8       34 mm   34 mm up  the table
+
+Make all four the same length and the back feet end up 9 mm lower than the front
+ones, so Ember rocks back onto her haunches with her front feet in the air.
+
+Sew the back legs to Rnd 6 and the front legs to Rnd 8, about 8 stitches
+apart on each pair. Angle the back legs under her as haunches and the front legs
+slightly forward. Ember's body rests on the table; the legs support the pose rather
+than lifting her off it.
+
+
+----------------------------------------------------------------
+
+5 - TAIL -- MAIN COLOR, MAKE 1
+----------------------------------------------------------------
+
+Worked from the tip up, so it tapers naturally.
+
+RND  INSTRUCTION           STS
+---  --------------------  ----
+R1   4 sc in MR            (4)
+R2   sc in each st around  (4)
+R3   [sc, inc] x2          (6)
+R4   sc in each st around  (6)
+R5   sc in each st around  (6)
+R6   [2 sc, inc] x2        (8)
+R7   sc in each st around  (8)
+R8   sc in each st around  (8)
+R9   [3 sc, inc] x2        (10)
+R10  sc in each st around  (10)
+R11  sc in each st around  (10)
+R12  sc in each st around  (10)
+
+Finish. Stuff lightly. FO with a long tail. Flatten the open end and sew it to
+the back of the body at Rnds 4-6.
+
+
+----------------------------------------------------------------
+
+6 - HORNS -- CONTRAST COLOR, MAKE 2
+----------------------------------------------------------------
+
+RND  INSTRUCTION           STS
+---  --------------------  ---
+R1   4 sc in MR            (4)
+R2   sc in each st around  (4)
+R3   [sc, inc] x2          (6)
+R4   sc in each st around  (6)
+R5   sc in each st around  (6)
+
+Finish. Do not stuff. FO with a long tail. Sew to the crown of the head,
+6 stitches apart, angled back.
+
+
+----------------------------------------------------------------
+
+7 - WINGS -- CONTRAST COLOR, MAKE 2
+----------------------------------------------------------------
+
+Worked flat, in turned rows, then finished with a scalloped edge. Every row
+consumes exactly the stitches the row before it produced.
+
+Ch 11.
+
+Row 1. From the 2nd ch from the hook: sc in 4, hdc in 3, dc in 3. Ch 1, turn.
+[10]
+
+Row 2. sc in 3, hdc in 3, dc in 4. Ch 1, turn. [10]
+
+Row 3. sc in 2, hdc in 4, dc in 4. Ch 1, turn. [10]
+
+Row 4 -- scalloped edge. sl st in the first 2, (sc, hdc, dc, hdc, sc) in the
+next st, sl st in the next 2, (sc, hdc, dc, hdc, sc) in the next st, sl st in
+the last 4.
+
+Finish. FO with a 25 cm tail.
+
+The slip-stitch groups are 2 / 2 / 4 -- eight stitches -- which with the two
+shells, worked into one stitch each, consumes all 10 stitches of Row 3. Nothing is
+left over. Both scallops are identical, so the two ends of the wing match.
+
+Pin the straight inner edge of each wing to the back of the body across
+Rnds 10-11, about 8 stitches apart, angled up and out. Sew along the whole
+straight edge so the scalloped edge stays free -- sewing only the top corner is what
+makes a wing droop.
+
+
+----------------------------------------------------------------
+
+8 - BACK SPIKES -- CONTRAST COLOR, MAKE 1
+----------------------------------------------------------------
+
+One continuous strip, sewn down the center back from the crown of the head to the
+tip of the tail. Nine spikes: 3 on the head, 4 on the body, 2 on the tail.
+
+Ch 4.
+
+Row 1. sc in the 2nd ch from the hook. Then work this group 9 times:
+
+    ch 4, sl st in the 2nd ch from the hook, sc in the next ch, hdc in the next ch.
+
+Each group makes one spike, and the last stitch of each group is also where the
+next one begins -- so the nine spikes form one continuous ridge with no gaps.
+
+Then sc in the next 2, and FO with a long tail.
+
+The finished strip is 30 stitches -- 1 at the start, 3 for each of the 9 spikes,
+2 at the end -- and roughly 13.5 cm long. That is a little under the 15.5 cm crown-to-tail
+path, which is what you want: the strip follows a curve over the head, down the
+back and along the tail, and it should go on slightly snug rather than stretched.
+If it will not reach, work one more spike.
+
+    Each spike is a small cone. Chaining 4 and working back along it with a slip
+    stitch, a single and a half double makes a point about 10 mm long, and about
+    13 mm of the strip is taken up by each one. Nine of them plus the ends come to
+    roughly 148 mm.
+    
+    The spikes deliberately touch. A dragon's spine is a continuous ridge, and any
+    plain stitches you add between them make the strip too long for the path -- each
+    extra single crochet adds about 4.5 mm.
+
+Check the length before you sew. Pin the strip from the crown down the back to
+the tail tip. If it runs long, unpick from the plain end; if it runs short, work
+one more spike, which adds about 13.5 mm. Sewing it slightly stretched or slightly gathered is visible from
+across the room, so get this right before the first stitch.
+
+
+----------------------------------------------------------------
+
+9 - ASSEMBLY
+----------------------------------------------------------------
+
+Work in this order. Each step is easier before the next one is in the way.
+
+  1. Snout to head, centered on Rnds 8-11, below the eye line.
+  2. Eyes between Rnds 7 and 8, 8 stitches apart, just above the snout. Fit
+   the washers before the head is joined to the body -- once it is closed up you
+   cannot reach inside.
+  3. Horns to the crown, 6 stitches apart, angled back.
+  4. Head to body. Both edges are open at 18 stitches. Seat the head on the neck
+   and ladder-stitch all the way around, then make a second pass and pull it
+   tight. Pack the neck firmly first. This joint carries the whole head.
+  5. Legs -- back pair to Rnd 6, front pair to Rnd 8, angled as described.
+  6. Tail to the back of the body at Rnds 4-6.
+  7. Wings across Rnds 10-11.
+  8. Spike strip last, pinned from crown to tail tip before you sew a stitch.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Head flops forward -- Two causes, and both are about the join. Pack the neck
+firmly before you close it, and make the second ladder-stitch pass tight. If the
+head still moves, the two edges did not match: both the head and the neck must be
+open at 18 stitches.
+
+Ember rocks back onto her haunches -- All four legs are the same length, and
+they cannot be. The back legs attach 26 mm up and the front legs 34 mm up, so
+equal-length legs leave the back feet 9 mm lower. Work the back legs 6 rounds and
+the front legs 8.
+
+Ember will not sit -- The legs are sewn too high, or the body is under-stuffed
+at the base. Back legs belong on Rnd 6 and front legs on Rnd 8, and the lower body
+needs to be firm enough to sit on.
+
+Wings droop -- Sew along the whole straight inner edge, not just the top corner.
+
+Spike strip curves -- Pin the entire strip from crown to tail before you sew a
+single stitch. This is the most visible seam on the toy.
+
+Spike strip is the wrong length -- The strip is worked from a 40-chain
+foundation, which suits this gauge. If your chains are looser it will run long;
+unpick from the plain end rather than stretching it to fit.
+
+Looks like a bear -- The snout is missing or under-stuffed. It must project past
+the dome of the head.
+
+Stuffing shows through -- Your gauge is too loose. Thirty stitches should
+measure 43 mm around the body. Crochet more tightly, or go down to a 3.0 mm hook.
+
+
+----------------------------------------------------------------
+
+COLORWAYS
+----------------------------------------------------------------
+
+Sage green, dusty teal, lilac, charcoal and blush pink all sell well. Jewel tones
+photograph best against a pale background.
+
+
+----------------------------------------------------------------
+
+BEFORE YOU ASSEMBLE
+----------------------------------------------------------------
+
+Lay every component out and check it against the pattern before you sew anything:
+
+  - 1 head, open at 18 stitches
+  - 1 snout
+  - 1 body, neck open at 18 stitches
+  - 2 back legs of 6 rounds, 2 front legs of 8 rounds
+  - 1 tail
+  - 2 horns
+  - 2 wings
+  - 1 spike strip with 9 spikes
+
+Pin each piece and look at Ember from the front before committing a single stitch.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE. This pattern is for personal use and small-batch finished sales.
+You may sell physical finished items made from this pattern provided credit is
+given to Novality Store. Selling, altering, copying or redistributing this digital
+PDF is strictly prohibited.
+
+(c) Novality Store - Creation Studio.
+
+================================================================
+PATTERN 9 - DESIGN CODE NS 09 - SHELBY THE SEA TURTLE BAG CHARM
+================================================================
+US crochet terms - Easy - 30 minutes - market bestseller
+
+A pocket sea turtle on a keyring -- the classic craft-market impulse buy. Under
+half an hour, a couple of grams of yarn, and the flippers and head are worked
+straight into the shell so there is almost nothing to sew.
+
+
+----------------------------------------------------------------
+
+SAFETY -- READ THIS FIRST
+----------------------------------------------------------------
+
+Shelby has two 4 mm safety eyes. Safety eyes are small parts. Lock the
+washers firmly from the inside and pull-test each one -- a properly locked washer
+will not come off by hand.
+
+This pattern has not been tested to a toy-safety standard such as ASTM F963
+or EN 71. Shelby is sold as a keyring and bag charm; if you also market it as a
+pocket toy, please do not describe it as "baby-safe" or "suitable from
+birth". For a child under three, use French knots rather than safety eyes.
+
+The keyring is the other hazard: attach it through two stitches and knot the
+yarn inside the shell. A charm that comes off a bag is a small part with a metal
+ring on it.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Shell yarn -- DK / light worsted (#3) cotton, about 1 g. Sage, teal,
+mustard or rust.
+
+Body yarn -- DK cotton, about 1 g in a contrast cream, sand or pale green.
+
+The whole charm is 203 stitches, which is roughly 3 m of DK. Two grams covers
+it with room for the embroidery and the tails; the rest of a ball makes the next
+ten charms.
+
+Hook -- 2.5 mm (US C-2).
+
+Eyes -- 2 x 4 mm safety eyes, or two small black French knots. See the note in
+section 4 -- at this size the knots are the easier fit.
+
+Also needed -- A pinch of polyfill (well under 1 g); tapestry needle; one
+25 mm keyring or lobster clasp per turtle.
+
+
+----------------------------------------------------------------
+
+GAUGE & FINISHED SIZE
+----------------------------------------------------------------
+
+Gauge -- DK cotton on a 2.5 mm hook: about 3.5 mm per stitch and 3.2 mm per
+round.
+
+Finished size -- About 3.7 cm (1.5 in) across the flippers, 3.2 cm (1.25 in)
+long and 1.9 cm (0.75 in) deep. Both the shell and the underside finish at 24
+stitches, and 24 stitches at this gauge is a disc 26.7 mm across -- that single
+number sets the size of the whole charm. If you want a 6 cm charm, see Making
+a bigger Shelby at the end.
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR magic ring - sc single crochet - hdc half double crochet -
+inc 2 sc in one stitch - sl st slip stitch - BLO back loop only -
+FO fasten off - (n) stitch count
+
+Work in a continuous spiral -- do not join between rounds. Mark the first stitch
+of every round.
+
+
+----------------------------------------------------------------
+
+CORE TECHNIQUES
+----------------------------------------------------------------
+
+These are the techniques Shelby uses, in the order you will meet them.
+
+1 - THE MAGIC RING. Wrap the yarn once around two fingers, insert the hook,
+pull up a loop, work the first round into the ring, then pull the tail tight.
+
+2 - WORK IN A SPIRAL. Do not join and do not ch 1 between rounds. Keep a
+stitch marker in the first stitch of every round and move it up each time --
+there is no join to count from.
+
+3 - BACK LOOP ONLY (BLO). Work into the far loop of the stitch only. The
+unused loops form a raised ridge -- on the shell that ridge is the rim, and it is
+what makes the dome read as a shell rather than a bun.
+
+4 - SEVERAL STITCHES INTO ONE STITCH (the cluster). This is the whole trick
+of the head and flippers. You work every stitch of the group into one stitch
+of the previous round, so they all share a single anchor and fan out into a bump
+that stands proud of the fabric. Each cluster consumes one stitch and produces
+as many stitches as it contains -- that is why a round of 24 stitches can produce
+35.
+
+5 - WHIP STITCH. Pass the needle through both layers from back to front,
+then over the edge and back through, repeating. Keep the tension even or the
+join will pucker.
+
+6 - FRENCH KNOTS. Bring the needle up, wrap the floss once or twice around
+the needle, then push the needle back down close to where it emerged and pull
+through slowly. Used for the eyes at this size.
+
+
+----------------------------------------------------------------
+
+1. SHELL -- TOP
+----------------------------------------------------------------
+
+A shallow dome. The BLO round at Rnd 5 gives the shell its rim.
+
+RND    INSTRUCTION            STS   NOTE
+-----  ---------------------  ----  ---------
+Rnd 1  6 sc in MR             (6)
+Rnd 2  inc in each st around  (12)
+Rnd 3  [sc, inc] x6           (18)
+Rnd 4  [2 sc, inc] x6         (24)
+Rnd 5  BLO sc around          (24)  rim ridge
+Rnd 6  sc in each st around   (24)
+
+Finish. FO, leaving a 30 cm tail for joining.
+
+Shell markings. Before joining, embroider five or six shallow V shapes in a
+darker shade across the dome. It takes two minutes and it is the difference
+between a turtle and a green blob.
+
+
+----------------------------------------------------------------
+
+2. UNDERSIDE -- WITH HEAD AND FLIPPERS WORKED IN
+----------------------------------------------------------------
+
+Worked as a flat disc in the contrast color. The head and four flippers are
+worked directly into the final round, so there is nothing to sew on afterwards.
+
+RND    INSTRUCTION            STS   NOTE
+-----  ---------------------  ----  ----------------------------
+Rnd 1  6 sc in MR             (6)
+Rnd 2  inc in each st around  (12)
+Rnd 3  [sc, inc] x6           (18)
+Rnd 4  [2 sc, inc] x6         (24)  flat disc, matches the shell
+
+Finish. Do not fasten off -- work the head and flippers next.
+
+
+----------------------------------------------------------------
+
+3. HEAD & FLIPPERS -- WORKED INTO RND 4 OF THE UNDERSIDE
+----------------------------------------------------------------
+
+Five bumps worked into the 24 stitches of the underside. Each bump takes one
+stitch, and the plain stitches between them space the limbs evenly.
+
+RND    INSTRUCTION                                                                                                                                                                STS   NOTE
+-----  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----  -----------------
+Rnd 5  3 sc, (sc, hdc, hdc, sc) in next st, 4 sc, (sc, hdc, sc) in next st, 3 sc, (sc, hdc, sc) in next st, 4 sc, (sc, hdc, sc) in next st, 3 sc, (sc, hdc, sc) in next st, 2 sc  (35)  head + 4 flippers
+
+Finish. Sl st in the next stitch and FO, leaving a 20 cm tail.
+
+The round consumes 3 + 1 + 4 + 1 + 3 + 1 + 4 + 1 + 3 + 1 + 2 = 24 stitches,
+exactly closing the underside disc, and produces 35. The first bump -- the
+four-stitch one -- is the head; the four smaller bumps are the flippers.
+
+The five bumps land on stitches 4, 9, 13, 18 and 22, which puts the two front
+flippers 75° and 90° either side of the head. That one-stitch difference is
+invisible at this size, but if you want them exact, work the last plain run as
+3 sc instead of 2 and take one stitch from the run before the head.
+
+
+----------------------------------------------------------------
+
+4. FACE
+----------------------------------------------------------------
+
+Eyes -- read this first. The head bump is four stitches worked into a single
+stitch, so it is a small loop only about 7-10 mm across, and a 4 mm safety eye
+needs a washer of roughly 6-7 mm. The washer often will not fit inside the bump,
+and two eyes 2 stitches apart (7 mm) sit right at its edges.
+
+At this size, French knots are the better choice. Two small black knots,
+2 stitches apart, low on the front of the head bump.
+
+If you do want safety eyes, place them 1 stitch apart and check the washer
+seats fully before you close the shell. Fix them before joining -- once the
+shell is on you cannot reach inside.
+
+
+----------------------------------------------------------------
+
+5. JOINING AND FINISHING
+----------------------------------------------------------------
+
+  1. Fix the eyes to the head bump before you close the turtle.
+
+  2. Hold the shell dome against the underside, wrong sides together, with the
+head bump pointing away from the shell's 30 cm tail.
+
+  3. Whip stitch the join using the shell's 30 cm tail. Match 24 to 24, not
+24 to 35. The underside's outer round has 35 stitches, but they sit in only 24
+anchor positions -- 19 plain stitches plus the 5 clusters. Put one shell stitch
+against each anchor position, and where you come to a bump, pass the needle
+through the base stitch the bump was worked into, not through the bump's own
+stitches. The bumps will emerge from the join as the head and flippers.
+
+  4. Add a small pinch of stuffing when you are about three quarters of the
+way round. Do not overstuff -- a bag charm should stay flat enough to sit against
+a bag, and the shell only holds about 8 cm³.
+
+  5. Weave in every end inside the shell.
+
+  6. Attach the keyring through two stitches at the back of the shell,
+opposite the head, and knot the yarn inside. Going through two stitches rather
+than one stops the ring from tearing out of the fabric with everyday use -- this
+is the single most common failure on sold charms.
+
+
+----------------------------------------------------------------
+
+6. WHY THIS ONE SELLS AT MARKETS
+----------------------------------------------------------------
+
+Under 30 minutes, a couple of grams of yarn, and it hits three separate buying
+motives at once: keyring, bag charm and pocket toy.
+
+Make them in batches of one color, not one at a time. Six shells, then six
+undersides, then six joins is roughly twice as fast as six complete turtles.
+
+Price them as a small impulse buy and display them in a bowl at eye level rather
+than flat on the table. Offer a mixed-color multi-buy -- most market sales are
+two or three at once, not one.
+
+State the real size in your listing. Shelby is about 3.7 cm across the
+flippers. If you want the bigger charm, make the version below and list that one
+instead -- do not list the small one as 6 cm.
+
+
+----------------------------------------------------------------
+
+MAKING A BIGGER SHELBY (ABOUT 5.7 CM ACROSS THE FLIPPERS)
+----------------------------------------------------------------
+
+Same pattern, worked to 42 stitches instead of 24. This gives a charm about
+5.7 cm across the flippers, 5.2 cm long and 2.9 cm deep -- allow 45-50
+minutes and about 4 g of yarn.
+
+Shell. Rnd 1: 6 sc in MR (6). Rnd 2: inc in each st around (12). Rnd 3:
+[sc, inc] x6 (18). Rnd 4: [2 sc, inc] x6 (24). Rnd 5: [3 sc, inc] x6 (30).
+Rnd 6: [4 sc, inc] x6 (36). Rnd 7: [5 sc, inc] x6 (42). Rnd 8: BLO sc around
+(42). Rnd 9: sc in each st around (42). FO, 30 cm tail.
+
+Underside. Rnd 1 to Rnd 7 exactly as the shell's Rnd 1 to Rnd 7, ending at
+42 stitches. Do not fasten off.
+
+Head and flippers.
+
+RND    INSTRUCTION                                                                                                                                                          STS   NOTE
+-----  -------------------------------------------------------------------------------------------------------------------------------------------------------------------  ----  -----------------
+Rnd 8  7 sc, (sc, hdc, hdc, sc) in next st, 8 sc, (sc, hdc, sc) in next st, 7 sc, (sc, hdc, sc) in next st, 8 sc, (sc, hdc, sc) in next st, 7 sc, (sc, hdc, sc) in next st  (53)  head + 4 flippers
+
+This consumes 7 + 1 + 8 + 1 + 7 + 1 + 8 + 1 + 7 + 1 = 42 stitches, exactly
+closing the disc, and produces 53. The bumps land on stitches 8, 17, 25, 34 and
+42, which spaces them 9, 8, 9, 8, 8 apart -- closer to even than the small
+version. Join 42 to 42 by the same rule as step 3 above.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Flippers are uneven. Count the plain stitches between the bumps: 3, 4, 3, 4,
+3, then 2 at the end.
+
+Keyring pulls out. Attach it through two stitches, not one, and knot the
+yarn inside the shell.
+
+Too fat to hang flat. Less stuffing. A charm needs just enough to hold the
+dome.
+
+Shell and base do not match. Both must finish at 24 stitches. Check Rnd 4 on
+each piece.
+
+The join will not pair up. You are counting the underside's 35 stitches.
+Count anchor positions instead: 19 plain stitches plus 5 bumps = 24.
+
+Head is floppy. The head bump is the 4-stitch one. Work it into a single
+stitch so it stands proud.
+
+
+----------------------------------------------------------------
+
+THE FINISHED PROJECT
+----------------------------------------------------------------
+
+Shelby on a keyring -- about 3.7 cm across the flippers.
+
+Before you close the shell, check three things: the eyes are fixed and
+pull-tested, the five bumps are all present and the head is the four-stitch one,
+and the shell's rim and the underside's Rnd 4 both read 24 stitches.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE
+----------------------------------------------------------------
+
+This pattern is for personal use and small-batch finished sales. You may sell
+physical finished items made from this pattern provided credit is given to
+Novality Store. Selling, altering, copying or redistributing this digital PDF is
+strictly prohibited.
+
+(c) Novality Store - Creation Studio
+
+================================================================
+PATTERN 10 - DESIGN CODE NS 10 - WILLOW THE BUNNY LOVEY
+================================================================
+US crochet terms - Advanced beginner - 2-3 hours
+
+A bunny comforter: a soft stuffed head above a light, drapey blanket body. Baby
+items are the single strongest category on Etsy, and a lovey carries a far higher
+price than a plain toy because it reads as a keepsake.
+
+Willow's blanket is about 26 cm (10 in) square, her head is about 4.9 cm
+(2 in) across, and she measures roughly 33 cm (13 in) from the ear tips to
+the opposite bottom corner.
+
+
+----------------------------------------------------------------
+
+SAFETY -- READ THIS FIRST
+----------------------------------------------------------------
+
+Willow has no safety eyes, no buttons, no beads and no removable parts, and
+her face is embroidered with floss knotted inside the head. That makes her face
+safer than a safety-eyed toy.
+
+It does not make her a tested toy. Willow has not been tested to a toy-safety
+standard such as ASTM F963 or EN 71, and no homemade lovey should be described as
+"baby-safe" without that testing.
+
+Comforters are not recommended in the cot for babies under 12 months and
+should be used with supervision. Put that note in your listing -- it is the correct
+guidance, and buyers look for it.
+
+Every seam on Willow should be sewn twice, and every end woven in for at least
+5 cm and trimmed close. Loose ends are a genuine hazard on a baby item, not just
+an untidy finish.
+
+
+----------------------------------------------------------------
+
+MATERIALS
+----------------------------------------------------------------
+
+Yarn -- DK (#3) 100% cotton, or a cotton blend, about 60 g. Cream, sage, dusty pink or pale grey.
+
+Hook -- 3.5 mm (US E/4) for the blanket. Use 3.0 mm for the head if your
+tension is loose; the head needs to be tight enough that stuffing cannot show.
+
+Eyes -- None. The face is embroidered.
+
+Floss -- Dark brown or charcoal cotton floss for the face. Knot every end
+inside the head.
+
+Also needed -- Polyester fiber fill, about 8 g; tapestry needle; stitch marker.
+
+Only the head is stuffed. The blanket stays flat and drapey, which is the point.
+
+
+----------------------------------------------------------------
+
+GAUGE
+----------------------------------------------------------------
+
+DK cotton on a 3.5 mm hook: about 4.3 mm per stitch and 3.8 mm per round.
+
+Check it on the blanket after Rnd 3. Count the double crochets along one edge:
+three rounds gives 9 dc, which should measure about 39 mm. If your stitches are
+narrower than 4.3 mm the blanket will come out small -- every size figure in this
+pattern depends on that number, and it is worth 2 cm on the finished square.
+
+
+----------------------------------------------------------------
+
+FINISHED SIZE
+----------------------------------------------------------------
+
+Blanket, 20 rounds           60 dc x 4.3 mm = about 26 cm square
+---------------------------  -----------------------------------------------------
+Head                         36 sts x 4.3 mm = 155 mm around = about 4.9 cm across
+Head height                  14 rnd x 3.8 mm = about 5.3 cm
+Ear tips to opposite corner  about 33 cm
+
+The blanket grows about 1.3 cm per round on every side, so you can size it:
+
+rounds  blanket
+------  -----------
+18      about 23 cm
+20      about 26 cm
+22      about 28 cm
+
+
+----------------------------------------------------------------
+
+ABBREVIATIONS
+----------------------------------------------------------------
+
+MR     magic ring
+-----  -----------------------------------------
+ch     chain
+sc     single crochet
+dc     double crochet
+inc    increase -- 2 sc in one stitch
+dec    invisible decrease
+sl st  slip stitch
+FO     fasten off
+(n)    the stitch count at the end of that round
+
+
+----------------------------------------------------------------
+
+WORKING NOTES
+----------------------------------------------------------------
+
+The head and ears are worked in a continuous spiral -- do not join and do not
+chain 1 between rounds. Mark the first stitch of every spiral round.
+
+The blanket is worked in joined rounds: each round closes with a slip
+stitch and the next begins with a turning chain. This is a different rhythm from
+the spiral, and it is what lets the square grow outward evenly.
+
+Unless a note says otherwise, work every stitch through both loops.
+
+
+----------------------------------------------------------------
+
+HOW IT COMES TOGETHER
+----------------------------------------------------------------
+
+The core techniques, in the order you meet them.
+
+1 - The magic ring. The head and each ear begin with a magic ring. Pull the
+tail tight once the first round is complete.
+
+2 - Work in a spiral. Keep a stitch marker in the first stitch of every round.
+There is no join to count from.
+
+3 - The granny-square corner. Every blanket corner is worked as (3 dc, ch 2,
+3 dc) into one corner space. Those four corners are what make the piece square
+instead of round. Miss one corner group on one round and the whole square pulls
+out of true -- check all four at the end of every round.
+
+4 - The border round. One round of single crochet around the finished edge,
+with 3 sc into each corner space. It squares the edge off and stops the blanket
+curling. Do not skip it.
+
+
+----------------------------------------------------------------
+
+1 - HEAD
+----------------------------------------------------------------
+
+Worked as a slightly flattened sphere so it lies comfortably against a cot
+mattress.
+
+RND  INSTRUCTION            STS   NOTE
+---  ---------------------  ----  --------------------
+R1   6 sc in MR             (6)
+R2   inc in each st around  (12)
+R3   [sc, inc] x6           (18)
+R4   [2 sc, inc] x6         (24)  ears attach at R4-R6
+R5   [3 sc, inc] x6         (30)
+R6   [4 sc, inc] x6         (36)  head at full width
+R7   sc in each st around   (36)
+R8   sc in each st around   (36)  face on R8-R10
+R9   sc in each st around   (36)
+R10  [4 sc, dec] x6         (30)
+R11  [3 sc, dec] x6         (24)  stuff firmly
+R12  [2 sc, dec] x6         (18)
+R13  [sc, dec] x6           (12)  top up the stuffing
+R14  dec x6                 (6)
+
+Finish. FO and close with the tail. The finished head is about 4.9 cm across
+and 5.3 cm tall.
+
+Stuff the head firmly. A soft head on a lovey collapses the moment a baby
+grips it, and the embroidered face distorts with it. Firm is correct here even
+though the blanket is soft.
+
+
+----------------------------------------------------------------
+
+2 - EARS -- MAKE 2
+----------------------------------------------------------------
+
+Long and floppy -- the part a baby actually holds.
+
+RND  INSTRUCTION           STS
+---  --------------------  ----
+R1   6 sc in MR            (6)
+R2   [sc, inc] x3          (9)
+R3   [2 sc, inc] x3        (12)
+R4   sc in each st around  (12)
+R5   sc in each st around  (12)
+R6   sc in each st around  (12)
+R7   sc in each st around  (12)
+R8   sc in each st around  (12)
+R9   [2 sc, dec] x3        (9)
+R10  sc in each st around  (9)
+R11  [sc, dec] x3          (6)
+
+Finish. Do not stuff. Flatten. FO with a long tail.
+
+Sew the ears to Rnds 4-6 of the head, about 10 stitches apart, and pinch
+the base of each so it flops forward. Unstuffed ears are safer and far more
+pleasant to hold.
+
+
+----------------------------------------------------------------
+
+3 - BLANKET BODY
+----------------------------------------------------------------
+
+Worked in joined rounds from the center out, as a four-corner granny-style
+square in plain double crochet.
+
+Ch 4 and sl st to the first ch to form a ring.
+
+Rnd 1. Ch 3 (counts as the first dc), 2 dc into the ring, [ch 2, 3 dc into the
+ring] x3, ch 2, sl st to the top of the ch 3.
+[12 dc, 4 corner spaces]
+
+Rnd 2. Sl st into the next corner space. Ch 3, 2 dc in the same space, ch 2,
+3 dc in the same space -- this makes the first corner. Then into each remaining
+corner space work (3 dc, ch 2, 3 dc). Sl st to close.
+[24 dc, 4 corners]
+
+Rnds 3-20. Continue in the same way: into every corner space work
+(3 dc, ch 2, 3 dc), and into every space along a side work 3 dc.
+
+Each round adds one 3-dc group to every side, so the count grows by 12 dc per
+round:
+
+RND  TOTAL DC
+---  --------
+3    36
+5    60
+10   120
+15   180
+20   240
+
+At Rnd 20 that is 60 dc along each edge, which at 4.3 mm per dc gives a square
+about 26 cm across -- the standard lovey size.
+
+    Count your four corners at the end of every round. A round with only three
+    (3 dc, ch 2, 3 dc) groups is the most common mistake in a granny square, and it
+    will not show up until the blanket is half finished.
+
+Border
+
+Work one final round of sc all the way around: 1 sc into each dc and 3 sc into
+each corner space. Sl st to close and FO.
+
+At Rnd 20 that is 240 sc plus 12 into the corners = 252 sc.
+
+This firms up the edge and stops the square from curling.
+
+
+----------------------------------------------------------------
+
+4 - FACE AND ASSEMBLY
+----------------------------------------------------------------
+
+Face
+
+Embroider only -- no safety eyes, no beads, no buttons.
+
+With dark brown floss, work two small oval eyes about 8 stitches apart across
+Rnds 8-9, a small inverted-triangle nose centered between and below them, and
+a shallow Y for the mouth.
+
+Knot every end inside the head and bury the tails before you close it. On a
+baby item a tail that works loose is not a small problem.
+
+Blush
+
+Skip it. Pastel and chalk blush rubs off onto bedding and is not washable.
+
+Joining
+
+Center the head over one corner of the square, overlapping the blanket by about
+3 cm. Sew all the way around the base of the head, then sew it a second time.
+
+This is the only structural seam on the piece, and it will be pulled, chewed and
+washed. A single pass is not enough.
+
+Finishing
+
+Weave in every end for at least 5 cm and trim close.
+
+
+----------------------------------------------------------------
+
+5 - WHAT TO PUT IN YOUR LISTING
+----------------------------------------------------------------
+
+Materials. 100% cotton, embroidered face, no safety eyes, no buttons, no
+beads, no removable parts.
+
+Care. Machine wash cool on a gentle cycle inside a mesh bag. Reshape while
+damp and dry flat. Do not tumble dry -- it will felt and shrink the blanket.
+
+Supervision. Comforters are not recommended in the cot for babies under
+12 months and should be used with supervision.
+
+Stating all three plainly raises conversion on baby listings. Buyers search for
+"no safety eyes" and "machine washable" -- but do not claim "baby-safe" as a test
+result you have not had. "Embroidered face, no small parts" says the same thing to
+a buyer and is a claim you can stand behind.
+
+
+----------------------------------------------------------------
+
+TROUBLESHOOTING
+----------------------------------------------------------------
+
+Blanket curls at the edges -- You skipped the final sc border round. It is what
+squares the edge off.
+
+Square is not square -- Every corner needs (3 dc, ch 2, 3 dc). Missing a corner
+group on one round pulls the whole square out of true, and it compounds every
+round after.
+
+Blanket came out too small -- Your gauge is tighter than 4.3 mm per dc. Count
+9 dc along an edge after Rnd 3: if they measure under 39 mm, go up a hook size or
+add rounds.
+
+Head flops over -- Stuff it firmly and sew the base seam twice. The head must
+sit up off the blanket.
+
+Face looks harsh -- Use fewer strands of floss and keep the eyes small and well
+spaced.
+
+Too small for a lovey -- Add rounds. Each extra round adds about 1.3 cm to each
+side, so 22 rounds gives a 28 cm comforter.
+
+
+----------------------------------------------------------------
+
+COLORWAYS
+----------------------------------------------------------------
+
+Cream, sage, dusty pink, pale grey and butter yellow. Neutrals outsell brights in
+the baby category by a wide margin.
+
+
+----------------------------------------------------------------
+
+BEFORE YOU ASSEMBLE
+----------------------------------------------------------------
+
+Lay every component out and check it against the pattern before you sew anything:
+
+  - 1 head, firmly stuffed
+  - 2 ears, flat and unstuffed
+  - 1 blanket square with the border worked
+
+Pin the head to the corner and look at Willow from the front before committing a
+single stitch.
+
+
+----------------------------------------------------------------
+
+TERMS OF USE. This pattern is for personal use and small-batch finished sales.
+You may sell physical finished items made from this pattern provided credit is
+given to Novality Store. Selling, altering, copying or redistributing this digital
+PDF is strictly prohibited.
+
+(c) Novality Store - Creation Studio.
+
+================================================================
+COPYRIGHT & LICENSING REVIEW
+================================================================
+Repository licence status
+
+The repository contains no LICENSE file. Its README.md contains only the
+title Crochet and states no licence. There is therefore no open-source or
+Creative Commons licence covering this material, and none of the patterns
+should be treated as public domain.
+
+Each pattern instead carries its own proprietary Terms of Use, which read in
+full:
+
+    This pattern is for personal use and small-batch finished sales. You may sell
+    physical finished items made from this pattern provided credit is given to
+    Novality Store. Selling, altering, copying or redistributing this digital PDF
+    is strictly prohibited.
+
+That notice governs purchasers of the pattern. It does not restrict the
+rights holder, and this compilation has been assembled from the rights holder's
+own files. Note, however, that the notice refers to "this digital PDF"; it does
+not by its terms cover a plain-text or Markdown compilation such as this one.
+
+Per-pattern attribution and licence table
+
+
+  Pattern                                  : Hamish the Highland Cow
+  Design code                              : NS01
+  Copyright holder as stated in the source : Novality Store (named in Terms of Use; no (c) line in source)
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Notice incomplete -- see below
+
+  Pattern                                  : Kawaii Halloween Mini Set
+  Design code                              : NS02
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Axel the Axolotl
+  Design code                              : NS03
+  Copyright holder as stated in the source : Novality Store (named in Terms of Use; no (c) line in source)
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Notice incomplete -- see below
+
+  Pattern                                  : Coco the Capybara
+  Design code                              : NS04
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Little Duck Plushie
+  Design code                              : NS05
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Momo the Loaf Cat
+  Design code                              : NS06
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Pocket Positivity Trio
+  Design code                              : NS07
+  Copyright holder as stated in the source : Not stated in the source file
+  Licence                                  : None stated
+  Modification                             : Unknown -- manual verification required
+  Redistribution                           : Unknown -- manual verification required
+  Attribution required                     : Unknown -- manual verification required
+  Status                                   : Requires manual verification
+
+  Pattern                                  : Ember the Baby Dragon
+  Design code                              : NS08
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Shelby the Sea Turtle Bag Charm
+  Design code                              : NS09
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+  Pattern                                  : Willow the Bunny Lovey
+  Design code                              : NS10
+  Copyright holder as stated in the source : (c) Novality Store - Creation Studio
+  Licence                                  : None -- proprietary Terms of Use
+  Modification                             : By the rights holder
+  Redistribution                           : Not permitted by the stated terms
+  Attribution required                     : Credit to Novality Store for finished-item sales
+  Status                                   : Complete
+
+
+Findings
+
+  1. No licence file exists. Absence of a licence does not make the work free
+   to reuse. Under default copyright, all rights are reserved to the author.
+  2. Three patterns have incomplete notices. NS01 and NS03 carry the Terms
+   of Use naming Novality Store but no (c) line. NS07 carries neither a (c)
+   line nor a Terms of Use section. No notice has been invented for these
+   three. Add one if these are the store's own work.
+  3. The collection brand and the copyright holder are named differently.
+   Novality Crochet Studio (collection) versus Novality Store - Creation
+   Studio (copyright). Both appear in this document as found.
+  4. No third-party designer is identified anywhere in the ten source files --
+   no "designed by", "created by", external attribution, website or social-media
+   credit appears in any of them. Nothing has been removed, and no third-party
+   authorship has been overwritten. If any of these designs did originate
+   elsewhere, that fact is not recorded in the repository and cannot be
+   determined from it.
+  5. The main branch of this repository carries unrelated content -- a README
+   for a different project (CrochetPARADE) published under GPLv3. That README is
+   not part of this collection, and the two histories share no common
+   ancestor. Nothing from it has been incorporated here.
+
+================================================================
+FINAL REVIEW SUMMARY
+================================================================
+
+  Patterns reviewed ................ 10
+  Patterns included ................ 10
+  Missing patterns ................. 0
+  Rounds and rows re-verified ...... 423 across all ten
+  Verification result .............. every pattern's own automated gate
+                                     passes on the text reproduced here
+
+ATTRIBUTION
+----------------------------------------------------------------
+  No attribution was changed. All existing copyright notices and
+  Terms of Use were reproduced verbatim. No designer name, copyright
+  owner or ownership claim was added, replaced or removed.
+
+COPYRIGHT NOTICES
+----------------------------------------------------------------
+  7 of 10 patterns carry '(c) Novality Store - Creation Studio' -
+  reproduced verbatim (NS02, NS04, NS05, NS06, NS08, NS09, NS10).
+  NS01 and NS03 carry the Terms of Use naming Novality Store but no
+  (c) line. None was invented.
+  NS07 carries neither a (c) line nor a Terms of Use section.
+  None was invented.
+
+LICENSING ISSUES FOUND
+----------------------------------------------------------------
+  - No LICENSE file exists in the repository, and README.md states no
+    licence. Nothing here is open-licensed or public domain.
+  - Each pattern carries proprietary Terms of Use that prohibit
+    redistributing the digital pattern.
+  - The repository's main branch carries an unrelated GPLv3 README
+    from another project. It shares no history with this branch and
+    is not part of this collection.
+
+UNSUPPORTED SAFETY CLAIMS REMOVED - 1
+----------------------------------------------------------------
+  - NS10 Willow described the yarn as 'a blend with a baby-safe
+    certification'. No such certification exists. Reworded to
+    'or a cotton blend'.
+
+  Nine further occurrences of the phrase 'baby-safe' were
+  deliberately kept. Every one of them is a warning AGAINST making
+  the claim - for example 'do not describe finished Hamishes as
+  baby-safe'. Removing them would delete the protection they provide.
+  No new safety claim was added anywhere.
+
+FORMATTING CORRECTIONS
+----------------------------------------------------------------
+  - Design-code lines restored for NS05 and NS07. Eight of the ten
+    source files open with 'DESIGN CODE NS NN'; those two did not.
+    The codes NS05 and NS07 are taken from the source file names, not
+    invented, and the restoration is marked at the head of each.
+  - NS07 had two identical 'Face' headings, one for Sunny and one
+    for Spud. Disambiguated. No instruction changed.
+  - Collection-level headings standardised across both files.
+
+TYPOGRAPHICAL CORRECTIONS
+----------------------------------------------------------------
+  - NS01: 'colour' -> 'color', 3 occurrences. The file is headed
+    'US crochet terms'.
+  - No other spelling or typographical errors were found in a scan of
+    all ten files for British spellings, HTML entities and merged words.
+
+PATTERN AND DESIGN CORRECTIONS MADE DURING REVIEW
+----------------------------------------------------------------
+  NS 01  Hamish the Highland Cow
+      The muzzle rim (35 mm) needed 8.3 rounds from Rnd 10 but the
+      head ended at Rnd 16 - it overran the head by about 10 mm.
+      One increase round removed. Stuffing and yarn budgets
+      corrected.
+
+  NS 02  Kawaii Halloween Mini Set
+      67 rounds verified clean. Stuffing and yarn budgets
+      corrected (stated 15 g fiberfill against 1.7-3.3 g of
+      volume; 33 g yarn against about 3.8 g). The bat-wing
+      scallops are asymmetric (7/5/5 stitches) - flagged, not
+      redesigned.
+
+  NS 03  Axel the Axolotl
+      The stated 12 cm gill span is not reachable from the bare
+      stitch count. Polyfill and yarn budgets corrected. The
+      '10-stitch ridge holds 5 scallops' claim was checked and is
+      correct.
+
+  NS 04  Coco the Capybara
+      R5 walk and the footprint re-derived from the pattern's own
+      gauge (65.2 x 29.2 mm). 37 rounds verified clean.
+
+  NS 05  Little Duck Plushie
+      Both headline dimensions were correct (16 cm, 7.5 cm). DK on
+      a 3.0 mm hook gives 7.5-8.5 cm, not the stated 10-12 cm -
+      velvet does. Body yarn 55-75 g corrected to 25-35 g.
+      Stuffing moved from R12 to R10, before the waist closes.
+      Fiberfill quantity and a smaller-head variant added.
+
+  NS 06  Momo the Loaf Cat
+      The base is 61.4 x 34.4 mm, not the stated 75 x 55 mm; a
+      36-stitch oval cannot reach 55 mm. Two increase rounds added
+      to reach the stated footprint - the only outright design
+      change in the collection, and it is disclosed in the
+      pattern.
+
+  NS 07  Pocket Positivity Trio
+      All three stated sizes overstated against the pattern's own
+      gauge: Sunny 4.5 cm -> 3.0 cm, Waddle 5 cm -> 3.8 cm, Spud
+      5.5 cm -> 2.7 cm. The troubleshooting entry 'minis come out
+      too big' was backwards. Eye spacing, fiberfill and yarn
+      corrected; unsupported 'baby-safe' marketing advice replaced
+      with a factual safety note.
+
+  NS 08  Ember the Baby Dragon
+      The spike strip as written cannot exist - a 3-stitch base
+      cannot carry 9 spikes. Head closure corrected. Stated 16 cm
+      against about 103 mm computed.
+
+  NS 09  Shelby the Sea Turtle Bag Charm
+      Stated 60 mm across the flippers computes to 37.0 mm. The
+      shell rim (24) and underside outer edge (35) could not be
+      matched 1:1; the join is now specified through the base
+      stitch of each bump. A larger variant added.
+
+  NS 10  Willow the Bunny Lovey
+      The gauge was self-contradictory by about 2 cm and is
+      unified. The blanket growth rule is 12n, not 24; all five
+      stated counts satisfy 12n. Unsupported 'fully baby-safe'
+      claim removed.
+
+ISSUES INTENTIONALLY LEFT UNCHANGED
+----------------------------------------------------------------
+  - NS 02 - the three bat-wing scallops are unequal (7, 5 and 5 stitches). This may be deliberate shaping, so it is recorded here rather than 'fixed'.
+
+  - NS 05 - the head and the body are the same diameter (30 stitches each). That is the stated design, not an error; a smaller-head variant is offered in the pattern instead of changing the original.
+
+  - NS 05 - the beak finishes about 50 mm, two-thirds of the head width. Large, but defensible for a duckling; a smaller option is given rather than a silent change.
+
+  - NS 09 - the head-bump eye spacing is asymmetric by about 15 degrees (one stitch). Within tolerance; left as written.
+
+  - NS 01, NS 03, NS 07 - no (c) line, and for NS 07 no Terms of Use. Left missing rather than inventing a copyright notice.
+
+  - Design codes appear in two forms - 'NS 01' in the pattern bodies and 'NS01' in the file names. Neither form has been renamed.
+
+ITEMS REQUIRING MANUAL VERIFICATION
+----------------------------------------------------------------
+  1. There is no LICENSE file in the repository and the README states no licence. Confirm the intended licence before distributing this compilation to anyone outside the business.
+
+  2. The collection brand (Novality Crochet Studio) and the copyright holder named in the patterns (Novality Store - Creation Studio) differ. Confirm which entity holds the copyright and which name should appear.
+
+  3. NS07 carries no copyright notice and no Terms of Use. Add one if it is the store's own work.
+
+  4. The per-pattern terms prohibit redistributing 'this digital PDF'. This compilation is a .txt and a .md. Decide whether those terms should be restated in a form that covers them.
+
+  5. No third-party designer is identified anywhere in the ten source files. If any design did originate outside the store, that is not recorded in the repository and cannot be verified from it.
+
+  6. The main branch of this repository carries an unrelated GPLv3 README from a different project, with no common ancestor to this branch. It is not part of this collection.
+
+----------------------------------------------------------------
+Compiled by Novality Crochet Studio. Original copyright holders and
+terms are reproduced with each pattern and are summarised in the
+COPYRIGHT & LICENSING REVIEW above.

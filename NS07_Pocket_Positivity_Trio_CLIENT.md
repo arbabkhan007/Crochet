@@ -129,7 +129,7 @@ in the valley between petals and makes them fan outward. Work this round
 loosely, especially the three stitches in one stitch; if it pulls tight, step up
 to a 4 mm hook for this round only and return to 3.5 mm afterwards.
 
-## Face
+## Face — Sunny
 
 Embroider a smiling mouth with black embroidery thread between Rnd 2 and Rnd 3
 of the center. Add 5 mm safety eyes (or embroider them) **3 stitches apart** on
@@ -240,7 +240,7 @@ Fasten off, leaving a 20 cm tail.
 remaining opening closed. Sew along the flat top so the seam reads as the
 potato's natural crease. Weave in the end on the inside.
 
-## Face
+## Face — Spud
 
 Add 5 mm safety eyes (or embroider them) about **5 stitches apart** on the broad
 side, around Rnd 4. Spud's face is the widest of the three at about 27 mm, so
